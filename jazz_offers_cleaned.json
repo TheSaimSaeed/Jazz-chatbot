@@ -11,7 +11,12 @@
     "terms_and_conditions": "Just dial *699# and you’ll get specially crafted Data, SMS and calling packages as per your need.\nTu phir milao *699# aur apna khaas package pao.",
     "more_details": {},
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Jazz Fauri SMS",
@@ -27,7 +32,12 @@
       "Charges": "1.7 Including tax / Per Message"
     },
     "currency": "PKR",
-    "billing_cycle": 1
+    "billing_cycle": 1,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Call Back Notification",
@@ -46,7 +56,12 @@
       "Dial": "Dial *7002#"
     },
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": "SUB",
+    "subscription_number": "7002",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "7002",
+    "dial_code": "*7002#"
   },
   {
     "plan_name": "Elaqaai Duniya",
@@ -68,7 +83,12 @@
       "Islami Taleemat": ""
     },
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": "SUB",
+    "subscription_number": "7080",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "ERSAAL",
@@ -82,7 +102,12 @@
     "terms_and_conditions": "Price Plan\nValidity\nPrice\n\nDaily (Prepaid)\n1 Day\nRs. 3.5/Per Day\n\nWeekly (Prepaid)\n7 Days\nRs. 11.5/Per Week\n\nMonthly (Prepaid)\n30 Days\nRs. 35.5/Per Month\n\nMonthly (Postpaid)\n30 Days\nRs. 35.5/Per Month\n\nNote:\nSMS charges will be as per the price plan\nPaid package plans are recursive for Jazz prepaid & postpaid users.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Jazz Radio",
@@ -99,7 +124,12 @@
       "Unsubscribe": "Send UNSUB to 6666"
     },
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": "SUB",
+    "subscription_number": "6666",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "6666",
+    "dial_code": null
   },
   {
     "plan_name": "Jazz Video Tunes",
@@ -115,7 +145,12 @@
       "Subscription": "Postpaid. Rs. 150/Month (Incl. Tax)"
     },
     "currency": "PKR",
-    "billing_cycle": 1
+    "billing_cycle": 1,
+    "subscription_code": "Postpaid. Rs. 150/Month (Incl. Tax)",
+    "subscription_number": "150",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Jazz Voice message",
@@ -132,7 +167,12 @@
       "Unsubscribe": "UNSUB to 7676"
     },
     "currency": "PKR",
-    "billing_cycle": 1
+    "billing_cycle": 1,
+    "subscription_code": "SUB",
+    "subscription_number": "7676",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "7676",
+    "dial_code": null
   },
   {
     "plan_name": "FikrFree Sehat Card",
@@ -146,7 +186,12 @@
     "terms_and_conditions": "Coverage of PKR 100,000 in case of hospitalization\nCoverage of PKR 50,000 for accidental OPD\nFree and unlimited online consultation with PMDC - certified doctors via audio and video calls",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Weekly X Plus",
@@ -167,7 +212,12 @@
       "600": "Other Network Mins",
       "2,000": "SMS",
       "50,000": "Handset Insurance"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "International Roaming Tariff",
@@ -181,7 +231,12 @@
     "terms_and_conditions": null,
     "more_details": {},
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "World Data Roaming Package 200 MBS...",
@@ -195,7 +250,12 @@
     "terms_and_conditions": "Prepaid Coverage\nOperator\nMCC - MNC\n\nAlgeria\nOptimum Telecom\n603/02\n\nAustralia\nSingTel Optus\n505/02\n\nAustria\nHutchison Drei Austria GmbH\n232/05\n\nAzerbaijan\nBakcell Limited Liable Company\n400/02\n\nBahrain\nZain Bahrain B.S.C\n426/02\n\nBahrain\nSTC Bahrain\n\nBahrain\nBatelco\n\nBangladesh\nGrameenphone\n470/01\n\nBangladesh\nBanglalink\n470/03\n\nBelgium\nProximus PLC\n206/01\n\nBelgium\nORANGE Belgium nv/SA\n206/10\n\nCanada\nTELUS\n302/220\n\nCanada\nBell Mobility\n302/610\n\nCanada\nRogers\n302/720\n\nChina\nChina Mobile Limited\n460/00\n\nDenmark\nHI3G Denmark ApS (3 Denmark)\n238/06\n\nEgypt\nOrange\n602/01\n\nFrance\nOrange\n208/01\n\nGermany\nTelekom Deutschland GmbH\n262/01\n\nGermany\nVodafone GmbH\n262/02\n\nHong Kong\nHong Kong Telecommunications (HKT)\n454/00\n\nIreland\nVodafone Ireland\n272/01\n\nIraq\n(Zain Iraq) Atheer Telecommunications Iraq Limited\n418/20\n\nIran\nMobile Telecommunication Company of Iran\n432/11\n\nItaly\nTelecom Italia\n222/01\n\nKazakhstan\nKaR - Tel\n401/01\n\nKyrgyzstan\nSky Mobile LLC (Beeline)\n437/01\n\nKuwait\nOoredoo (Wataniya)\n419/03\n\nLebanon\nMobile Interim Company 2 (MIC2)\n415/03\n\nMalaysia\nMaxis Broadband\n502/12\n\nMalta\nEpic Communications Limited\n278/01\n\nMalta\nGO p.l.c.\n278/21\n\nNetherlands\nVodafone Libertel\n204/04\n\nNew Zealand\nVodafone New Zealand\n530/01\n\nPhilippines\nGlobe Telecom\n515/02\n\nPortugal\nMEO - Serviços de Comunicações e Multimédia SA\n268/06\n\nQatar\nOoredoo QSC\n427/01\n\nQatar\nVodafone Qatar\n427/02\n\nRomania\nVodafone Romania\n226/01\n\nRussia\nVimpelCom PJSC\n250/99\n\nSaudi Arabia\nSaudi Telecom Company (STC)\n420/01\n\nSaudi Arabia\nEtihad Etisalat Company\n420/03\n\nSaudi Arabia\nMTC Saudi Arabia (Zain)\n420/04\n\nSingapore\nM1 Limited\n525/03\n\nSouth Africa\nVodacom Group (Pty) Ltd.\n655/01\n\nSri Lanka\nMobitel (Pvt) Limited\n413/01\n\nSri Lanka\nDialog Axiata Plc\n413/02\n\nSweden\n3 Sweden (Tre Sverige)\n240/02\n\nThailand\nAdvanced Wireless Network (AWN)\n520/03\n\nTurkey\nTurkcell\n286/01\n\nTurkey\nVodafone\n286/02\n\nTurkey\nAvea\n286/03\n\nUkraine\nVodafone Ukraine\n255/01\n\nUnited Arab Emirates\nETISALAT\n424/02\n\nUnited Kingdom\nVodafone Ltd\n234/15\n\nUnited Kingdom\nHutchison 3G UK Limited\n234/20\n\nUnited States\nT - Mobile\n310/260\n\nUnited States\nAT&T Mobility\n310/410\n\nUzbekistan\nUnitel LLC (UZBDU)\n434/04",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "World Data Roaming Package 500 MBS",
@@ -209,7 +269,12 @@
     "terms_and_conditions": "Prepaid Coverage\nOperator\nMCC - MNC\n\nAlgeria\nOptimum Telecom\n603/02\n\nAustralia\nSingTel Optus\n505/02\n\nAustria\nHutchison Drei Austria GmbH\n232/05\n\nAzerbaijan\nBakcell Limited Liable Company\n400/02\n\nBahrain\nZain Bahrain B.S.C\n426/02\n\nBahrain\nSTC Bahrain\n\nBahrain\nBatelco\n\nBangladesh\nGrameenphone\n470/01\n\nBangladesh\nBanglalink\n470/03\n\nBelgium\nProximus PLC\n206/01\n\nBelgium\nORANGE Belgium nv/SA\n206/10\n\nCanada\nTELUS\n302/220\n\nCanada\nBell Mobility\n302/610\n\nCanada\nRogers\n302/720\n\nChina\nChina Mobile Limited\n460/00\n\nDenmark\nHI3G Denmark ApS (3 Denmark)\n238/06\n\nEgypt\nOrange\n602/01\n\nFrance\nOrange\n208/01\n\nGermany\nTelekom Deutschland GmbH\n262/01\n\nGermany\nVodafone GmbH\n262/02\n\nHong Kong\nHong Kong Telecommunications (HKT)\n454/00\n\nIreland\nVodafone Ireland\n272/01\n\nIraq\n(Zain Iraq) Atheer Telecommunications Iraq Limited\n418/20\n\nIran\nMobile Telecommunication Company of Iran\n432/11\n\nItaly\nTelecom Italia\n222/01\n\nKazakhstan\nKaR - Tel\n401/01\n\nKyrgyzstan\nSky Mobile LLC (Beeline)\n437/01\n\nKuwait\nOoredoo (Wataniya)\n419/03\n\nLebanon\nMobile Interim Company 2 (MIC2)\n415/03\n\nMalaysia\nMaxis Broadband\n502/12\n\nMalta\nEpic Communications Limited\n278/01\n\nMalta\nGO p.l.c.\n278/21\n\nNetherlands\nVodafone Libertel\n204/04\n\nNew Zealand\nVodafone New Zealand\n530/01\n\nPhilippines\nGlobe Telecom\n515/02\n\nPortugal\nMEO - Serviços de Comunicações e Multimédia SA\n268/06\n\nQatar\nOoredoo QSC\n427/01\n\nQatar\nVodafone Qatar\n427/02\n\nRomania\nVodafone Romania\n226/01\n\nRussia\nVimpelCom PJSC\n250/99\n\nSaudi Arabia\nSaudi Telecom Company (STC)\n420/01\n\nSaudi Arabia\nEtihad Etisalat Company\n420/03\n\nSaudi Arabia\nMTC Saudi Arabia (Zain)\n420/04\n\nSingapore\nM1 Limited\n525/03\n\nSouth Africa\nVodacom Group (Pty) Ltd.\n655/01\n\nSri Lanka\nMobitel (Pvt) Limited\n413/01\n\nSri Lanka\nDialog Axiata Plc\n413/02\n\nSweden\n3 Sweden (Tre Sverige)\n240/02\n\nThailand\nAdvanced Wireless Network (AWN)\n520/03\n\nTurkey\nTurkcell\n286/01\n\nTurkey\nVodafone\n286/02\n\nTurkey\nAvea\n286/03\n\nUkraine\nVodafone Ukraine\n255/01\n\nUnited Arab Emirates\nETISALAT\n424/02\n\nUnited Kingdom\nVodafone Ltd\n234/15\n\nUnited Kingdom\nHutchison 3G UK Limited\n234/20\n\nUnited States\nT - Mobile\n310/260\n\nUnited States\nAT&T Mobility\n310/410\n\nUzbekistan\nUnitel LLC (UZBDU)\n434/04",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "World Data Roaming Package 1 GB",
@@ -223,7 +288,12 @@
     "terms_and_conditions": "Prepaid Coverage\nOperator\nMCC - MNC\n\nAlgeria\nOptimum Telecom\n603/02\n\nAustralia\nSingTel Optus\n505/02\n\nAustria\nHutchison Drei Austria GmbH\n232/05\n\nAzerbaijan\nBakcell Limited Liable Company\n400/02\n\nBahrain\nZain Bahrain B.S.C\n426/02\n\nBahrain\nSTC Bahrain\n\nBahrain\nBatelco\n\nBangladesh\nGrameenphone\n470/01\n\nBangladesh\nBanglalink\n470/03\n\nBelgium\nProximus PLC\n206/01\n\nBelgium\nORANGE Belgium nv/SA\n206/10\n\nCanada\nTELUS\n302/220\n\nCanada\nBell Mobility\n302/610\n\nCanada\nRogers\n302/720\n\nChina\nChina Mobile Limited\n460/00\n\nDenmark\nHI3G Denmark ApS (3 Denmark)\n238/06\n\nEgypt\nOrange\n602/01\n\nFrance\nOrange\n208/01\n\nGermany\nTelekom Deutschland GmbH\n262/01\n\nGermany\nVodafone GmbH\n262/02\n\nHong Kong\nHong Kong Telecommunications (HKT)\n454/00\n\nIreland\nVodafone Ireland\n272/01\n\nIraq\n(Zain Iraq) Atheer Telecommunications Iraq Limited\n418/20\n\nIran\nMobile Telecommunication Company of Iran\n432/11\n\nItaly\nTelecom Italia\n222/01\n\nKazakhstan\nKaR - Tel\n401/01\n\nKyrgyzstan\nSky Mobile LLC (Beeline)\n437/01\n\nKuwait\nOoredoo (Wataniya)\n419/03\n\nLebanon\nMobile Interim Company 2 (MIC2)\n415/03\n\nMalaysia\nMaxis Broadband\n502/12\n\nMalta\nEpic Communications Limited\n278/01\n\nMalta\nGO p.l.c.\n278/21\n\nNetherlands\nVodafone Libertel\n204/04\n\nNew Zealand\nVodafone New Zealand\n530/01\n\nPhilippines\nGlobe Telecom\n515/02\n\nPortugal\nMEO - Serviços de Comunicações e Multimédia SA\n268/06\n\nQatar\nOoredoo QSC\n427/01\n\nQatar\nVodafone Qatar\n427/02\n\nRomania\nVodafone Romania\n226/01\n\nRussia\nVimpelCom PJSC\n250/99\n\nSaudi Arabia\nSaudi Telecom Company (STC)\n420/01\n\nSaudi Arabia\nEtihad Etisalat Company\n420/03\n\nSaudi Arabia\nMTC Saudi Arabia (Zain)\n420/04\n\nSingapore\nM1 Limited\n525/03\n\nSouth Africa\nVodacom Group (Pty) Ltd.\n655/01\n\nSri Lanka\nMobitel (Pvt) Limited\n413/01\n\nSri Lanka\nDialog Axiata Plc\n413/02\n\nSweden\n3 Sweden (Tre Sverige)\n240/02\n\nThailand\nAdvanced Wireless Network (AWN)\n520/03\n\nTurkey\nTurkcell\n286/01\n\nTurkey\nVodafone\n286/02\n\nTurkey\nAvea\n286/03\n\nUkraine\nVodafone Ukraine\n255/01\n\nUnited Arab Emirates\nETISALAT\n424/02\n\nUnited Kingdom\nVodafone Ltd\n234/15\n\nUnited Kingdom\nHutchison 3G UK Limited\n234/20\n\nUnited States\nT - Mobile\n310/260\n\nUnited States\nAT&T Mobility\n310/410\n\nUzbekistan\nUnitel LLC (UZBDU)\n434/04",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "World Data Roaming Package 3 GB",
@@ -237,7 +307,12 @@
     "terms_and_conditions": "Prepaid Coverage\nOperator\nMCC - MNC\n\nAlgeria\nOptimum Telecom\n603/02\n\nAustralia\nSingTel Optus\n505/02\n\nAustria\nHutchison Drei Austria GmbH\n232/05\n\nAzerbaijan\nBakcell Limited Liable Company\n400/02\n\nBahrain\nZain Bahrain B.S.C\n426/02\n\nBahrain\nSTC Bahrain\n\nBahrain\nBatelco\n\nBangladesh\nGrameenphone\n470/01\n\nBangladesh\nBanglalink\n470/03\n\nBelgium\nProximus PLC\n206/01\n\nBelgium\nORANGE Belgium nv/SA\n206/10\n\nCanada\nTELUS\n302/220\n\nCanada\nBell Mobility\n302/610\n\nCanada\nRogers\n302/720\n\nChina\nChina Mobile Limited\n460/00\n\nDenmark\nHI3G Denmark ApS (3 Denmark)\n238/06\n\nEgypt\nOrange\n602/01\n\nFrance\nOrange\n208/01\n\nGermany\nTelekom Deutschland GmbH\n262/01\n\nGermany\nVodafone GmbH\n262/02\n\nHong Kong\nHong Kong Telecommunications (HKT)\n454/00\n\nIreland\nVodafone Ireland\n272/01\n\nIraq\n(Zain Iraq) Atheer Telecommunications Iraq Limited\n418/20\n\nIran\nMobile Telecommunication Company of Iran\n432/11\n\nItaly\nTelecom Italia\n222/01\n\nKazakhstan\nKaR - Tel\n401/01\n\nKyrgyzstan\nSky Mobile LLC (Beeline)\n437/01\n\nKuwait\nOoredoo (Wataniya)\n419/03\n\nLebanon\nMobile Interim Company 2 (MIC2)\n415/03\n\nMalaysia\nMaxis Broadband\n502/12\n\nMalta\nEpic Communications Limited\n278/01\n\nMalta\nGO p.l.c.\n278/21\n\nNetherlands\nVodafone Libertel\n204/04\n\nNew Zealand\nVodafone New Zealand\n530/01\n\nPhilippines\nGlobe Telecom\n515/02\n\nPortugal\nMEO - Serviços de Comunicações e Multimédia SA\n268/06\n\nQatar\nOoredoo QSC\n427/01\n\nQatar\nVodafone Qatar\n427/02\n\nRomania\nVodafone Romania\n226/01\n\nRussia\nVimpelCom PJSC\n250/99\n\nSaudi Arabia\nSaudi Telecom Company (STC)\n420/01\n\nSaudi Arabia\nEtihad Etisalat Company\n420/03\n\nSaudi Arabia\nMTC Saudi Arabia (Zain)\n420/04\n\nSingapore\nM1 Limited\n525/03\n\nSouth Africa\nVodacom Group (Pty) Ltd.\n655/01\n\nSri Lanka\nMobitel (Pvt) Limited\n413/01\n\nSri Lanka\nDialog Axiata Plc\n413/02\n\nSweden\n3 Sweden (Tre Sverige)\n240/02\n\nThailand\nAdvanced Wireless Network (AWN)\n520/03\n\nTurkey\nTurkcell\n286/01\n\nTurkey\nVodafone\n286/02\n\nTurkey\nAvea\n286/03\n\nUkraine\nVodafone Ukraine\n255/01\n\nUnited Arab Emirates\nETISALAT\n424/02\n\nUnited Kingdom\nVodafone Ltd\n234/15\n\nUnited Kingdom\nHutchison 3G UK Limited\n234/20\n\nUnited States\nT - Mobile\n310/260\n\nUnited States\nAT&T Mobility\n310/410\n\nUzbekistan\nUnitel LLC (UZBDU)\n434/04",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "World Data Roaming Package 5 GB",
@@ -251,7 +326,12 @@
     "terms_and_conditions": "Prepaid Coverage\nOperator\nMCC - MNC\n\nAlgeria\nOptimum Telecom\n603/02\n\nAustralia\nSingTel Optus\n505/02\n\nAustria\nHutchison Drei Austria GmbH\n232/05\n\nAzerbaijan\nBakcell Limited Liable Company\n400/02\n\nBahrain\nZain Bahrain B.S.C\n426/02\n\nBahrain\nSTC Bahrain\n\nBahrain\nBatelco\n\nBangladesh\nGrameenphone\n470/01\n\nBangladesh\nBanglalink\n470/03\n\nBelgium\nProximus PLC\n206/01\n\nBelgium\nORANGE Belgium nv/SA\n206/10\n\nCanada\nTELUS\n302/220\n\nCanada\nBell Mobility\n302/610\n\nCanada\nRogers\n302/720\n\nChina\nChina Mobile Limited\n460/00\n\nDenmark\nHI3G Denmark ApS (3 Denmark)\n238/06\n\nEgypt\nOrange\n602/01\n\nFrance\nOrange\n208/01\n\nGermany\nTelekom Deutschland GmbH\n262/01\n\nGermany\nVodafone GmbH\n262/02\n\nHong Kong\nHong Kong Telecommunications (HKT)\n454/00\n\nIreland\nVodafone Ireland\n272/01\n\nIraq\n(Zain Iraq) Atheer Telecommunications Iraq Limited\n418/20\n\nIran\nMobile Telecommunication Company of Iran\n432/11\n\nItaly\nTelecom Italia\n222/01\n\nKazakhstan\nKaR - Tel\n401/01\n\nKyrgyzstan\nSky Mobile LLC (Beeline)\n437/01\n\nKuwait\nOoredoo (Wataniya)\n419/03\n\nLebanon\nMobile Interim Company 2 (MIC2)\n415/03\n\nMalaysia\nMaxis Broadband\n502/12\n\nMalta\nEpic Communications Limited\n278/01\n\nMalta\nGO p.l.c.\n278/21\n\nNetherlands\nVodafone Libertel\n204/04\n\nNew Zealand\nVodafone New Zealand\n530/01\n\nPhilippines\nGlobe Telecom\n515/02\n\nPortugal\nMEO - Serviços de Comunicações e Multimédia SA\n268/06\n\nQatar\nOoredoo QSC\n427/01\n\nQatar\nVodafone Qatar\n427/02\n\nRomania\nVodafone Romania\n226/01\n\nRussia\nVimpelCom PJSC\n250/99\n\nSaudi Arabia\nSaudi Telecom Company (STC)\n420/01\n\nSaudi Arabia\nEtihad Etisalat Company\n420/03\n\nSaudi Arabia\nMTC Saudi Arabia (Zain)\n420/04\n\nSingapore\nM1 Limited\n525/03\n\nSouth Africa\nVodacom Group (Pty) Ltd.\n655/01\n\nSri Lanka\nMobitel (Pvt) Limited\n413/01\n\nSri Lanka\nDialog Axiata Plc\n413/02\n\nSweden\n3 Sweden (Tre Sverige)\n240/02\n\nThailand\nAdvanced Wireless Network (AWN)\n520/03\n\nTurkey\nTurkcell\n286/01\n\nTurkey\nVodafone\n286/02\n\nTurkey\nAvea\n286/03\n\nUkraine\nVodafone Ukraine\n255/01\n\nUnited Arab Emirates\nETISALAT\n424/02\n\nUnited Kingdom\nVodafone Ltd\n234/15\n\nUnited Kingdom\nHutchison 3G UK Limited\n234/20\n\nUnited States\nT - Mobile\n310/260\n\nUnited States\nAT&T Mobility\n310/410\n\nUzbekistan\nUnitel LLC (UZBDU)\n434/04",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "UAE Data Roaming Package – 1 GB",
@@ -269,7 +349,12 @@
       "Data Bundle Validity": "7 Days"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "UAE Data Roaming Package – 2 GB",
@@ -287,7 +372,12 @@
       "Data Bundle Validity": "15 days"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "UAE Data Roaming Package – 5 GB",
@@ -305,7 +395,12 @@
       "Data Bundle Validity": "30 days"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Roaming Tips",
@@ -319,7 +414,12 @@
     "terms_and_conditions": "Things to remember on roaming:\nJazz Roaming has never been more simple and affordable. Just a few tips:\nJazz Self - Service channels:\nJazz World application, WhatsApp self - service support are some of our self - service channels. View the following links:\nJazz Self Service Channels\nJazz World Application\nWhatsApp Self - Service\n\nWhat if your roaming is not working:\nLets say your roaming was working fine until recently and now it isn’t. Or you got it activated but it isn’t working. Don’t worry. Simply restart your handset, go to settings, find manual operator selection and select any operator from the list available. It should work. If still unsuccessful, email us at [email protected]. Corporate customers can contact their JBC. We shall take care of it.\nKnow your tariff:\nWe have just made roaming easy for all with $0.2 per min or mb in over 70 major countries. Over 90% of Jazz roamers visit these countries. Still, just make sure you know the roaming rates for the country you plan to visit.\nSay Yes to Data Roaming:\nSince data roaming is also $0.2 per mb in over 70 countries which is much affordable now. We encourage you to use data roaming. Roughly you can make 2 - 3 minutes of WhatsApp audio call in 1 mb. Not bad, right!\nWhat if Data Roaming is not working:\nIf your data roaming is active and you still face issues using it abroad just check:\nYour APN (Access Point Names) settings. Simply configure APN to ‘Jazz’\n\nSwitch on Data Roaming & Mobile Data from handset settings\nWe shall text you:\nWhile on roaming, you will continue to receive free welcome sms and data usage alerts to help you know your tariff, available offers and avoid any bill shock.\nWatch out for Inflight & maritime:\nNon - terrestrial roaming is expensive. Just make sure your mobile is put on Airplane mode here.\nNo Background Apps:\nSometimes, apps continue running in background without you knowing. So, its better to either turn data roaming on when using it or simply block apps from using data in background (check your mobile data settings).\nSwitch off all free services that you subscribe to. Certain data based applications viz. GPS, Facebook, Twitter, Widgets, RSS Feeds, Email, weather updates, News, Blackberry Messenger or any other instant messaging application etc. as they continuously consume data bandwidth leading to high Data - Roaming charges even when you are not using the same.\nWhy Call forwarding:\nCheck status of your call forwarding to ensure you cancel all call forwards before you travel abroad. So, you may want to review/cancel any call diverts that you may have activated as there will be two - way Roaming charging on Voicemail services and on conditional call forwarding while roaming.\nHow to Activate Now:\nNow that you have gone through these tips, we say it’s a good idea to use roaming and not purchase a local sim from abroad. For postpaid, we have reduced the credit limit requirement for roaming activation which is now Rs. 5000 for postpaid individual customers and Rs. 10,000 for corporate customers. Postpaid individual customers can visit any nearest Jazz business centre, call 777 or email to [email protected] for roaming activation. Corporate customers simply need to advise their JBCs (Jazz Business Consultants).",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Monthly Snapchat",
@@ -336,7 +436,12 @@
     "more_details": {
       "Price": "Rs. 104 (Incl. Tax)",
       "Validity": "30 Days"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Monthly Instagram",
@@ -353,7 +458,12 @@
     "more_details": {
       "Price": "Rs. 104 (Incl. Tax)",
       "Validity": "30 Days"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Monthly YouTube",
@@ -370,7 +480,12 @@
     "more_details": {
       "Price": "Rs. 104 (Incl. Tax)",
       "Validity": "30 Days"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Monthly TikTok",
@@ -387,7 +502,12 @@
     "more_details": {
       "Price": "Rs. 104 (Incl. Tax)",
       "Validity": "30 Days"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "JAZZ COLLECT CALL",
@@ -401,7 +521,12 @@
     "terms_and_conditions": "These terms and conditions are in addition to the general terms and conditions duly approved by PTA and agreed to by the customer in CSAF/eCSAF at the time of activation of connection/SIM.Jazz reserves the right/discretion to set/change the price/rate of any offer/package/bundle or withdraw/change/revoke such offer/package/bundle at any time. Where required under PTA’s regulations, prior notice shall be given to affected customers accordingly.Offer Price/charges of each offer/package/bundle shall be subject to all applicable taxes, if any, irrespective of the fact in which area of the country the requisite offer/package/bundle is activated/service availed.The charging system reserves certain proportion of available data volume in MBs of your package against opening/accessing of each application/website on the device, therefore, the simultaneous opening/accessing of multiple applications and/or websites may result in reserving all your available data volume in MBs of your package and may start charging on base rate of your package.The amount of balance and recharge required for bundles may be rounded up to the nearest whole number.In case of any queries, questions, complaints or additional requirements, please email us at: [email protected]Unwanted and unethical (unreasonable) messages can be reported by texting SENDER’s NUMBER (SPACE) message to 9000 –PTAUsing a SIM which is not in your name or allowing others to use your SIM is a crime – PTADial 420 to block unsolicited calls/messages (charges applicable).Unsolicited marketing communication can be blocked using “Do Not Call Register” service by texting “ON” or “SUB” to 3627. It is a free of cost service provided to Jazz customers.The term “Purchase of Sim” means procuring/acquiring connection to the network of PMCL by a customer for availing telecommunication and other related services from PMCL. SIM always remains the property of PMCL and by issuing SIM to customer, only rights to use are given and no ownership is transferred to the customer in any manner, whatsoever. The customer is bound to return the SIM to PMCL in case he stops using service or agreement is terminated or he changes the network through MNP.Bill date for all postpaid subscribers will be changed to 2nd of every month in 2021. Due to this change, customers will get a separate bill for difference in days for execution month. Min/MB charging will be prorated as per package.Details of applicable Taxes/charges on usage and recharge in Pakistan and AJK are given below:Advance income tax rate is @15% on each recharge.Rate of sales tax in Federal Territory of Islamabad is 16%Rate of sales tax in rest of Pakistan and AJK is 19.5%GB is exempted from taxes.A late payment fee of PKR 50 will be charged on bills remaining unpaid after the due date.Upon dialing package string customer will be subscribed to the package for exact validity days (including subscription day), offer and its incentives will expire on midnight of the last validity day. Monthly offers will have validity of x+29 days and weekly will have validity of x+6 days.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "We5 GupShup",
@@ -419,7 +544,12 @@
       "Validity": "30 Days (Shareable among 5 People)",
       "Price": "Rs. 1,738 (Incl. tax)",
       "Subscription Code": "*400#"
-    }
+    },
+    "subscription_code": "*400#",
+    "subscription_number": "400",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*400#"
   },
   {
     "plan_name": "We5 Social",
@@ -438,7 +568,12 @@
       "Validity": "30 Days (Shareable among 5 People)",
       "Price": "Rs. 1738 (Incl. tax)",
       "Subscription Code": "*400#"
-    }
+    },
+    "subscription_code": "*400#",
+    "subscription_number": "400",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*400#"
   },
   {
     "plan_name": "We5 Super",
@@ -457,7 +592,12 @@
       "Validity": "30 Days (Shareable among 5 People)",
       "Price": "Rs. 2,607 (Incl. tax)",
       "Subscription Code": "*400#"
-    }
+    },
+    "subscription_code": "*400#",
+    "subscription_number": "400",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*400#"
   },
   {
     "plan_name": "Euro Bundle 5 GB",
@@ -475,7 +615,12 @@
       "Data Bundle Validity": "30 Days"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Euro Bundle 10 GB",
@@ -493,7 +638,12 @@
       "Data Bundle Validity": "90 Days"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "We5 Fantastic",
@@ -512,7 +662,12 @@
       "Validity": "30 Days (Shareable among 5 People)",
       "Price": "Rs. 5,216 (Incl. tax)",
       "Subscription Code": "*400#"
-    }
+    },
+    "subscription_code": "*400#",
+    "subscription_number": "400",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*400#"
   },
   {
     "plan_name": "Saudi Data Roaming Package – 2 GB",
@@ -530,7 +685,12 @@
       "Data Bundle Validity": "30 days"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Saudi Data Roaming Package – 6 GB",
@@ -548,7 +708,12 @@
       "Data Bundle Validity": "45 days"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Saudi Hybrid Bundle 6GB + 30 (Mins + SMS)",
@@ -566,7 +731,12 @@
       "Data Bundle Validity": "45 days"
     },
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Weekly Super Plus",
@@ -586,7 +756,12 @@
       "Validity": "Weekly",
       "StatusCode": "*505*2#",
       "BundleInformation": "*505*3#"
-    }
+    },
+    "subscription_code": "*505#",
+    "subscription_number": "505",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*505#"
   },
   {
     "plan_name": "Peshawar, Nowshera and Kohat Plus Offer",
@@ -605,7 +780,12 @@
       "Recharge Required": "PKR 350",
       "Subscription String": "*4466#",
       "Validity": "7 Days"
-    }
+    },
+    "subscription_code": "*4466#",
+    "subscription_number": "4466",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*4466#"
   },
   {
     "plan_name": "South Bemisaal Offer",
@@ -625,7 +805,12 @@
       "Status Code": "*927*2#",
       "Info Code": "*927*3#",
       "Validity": "7Days"
-    }
+    },
+    "subscription_code": "*927#",
+    "subscription_number": "927",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*927#"
   },
   {
     "plan_name": "AARZI NUMBER",
@@ -647,7 +832,12 @@
       "Unsubscription Code: (Regular Number)": "SMS UNSUB to 4030 OR Dial 4030"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "SUB",
+    "subscription_number": "4030",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "4030",
+    "dial_code": null
   },
   {
     "plan_name": "Weekly WhatsApp Bundle",
@@ -669,7 +859,12 @@
       "InfoCode": "*101*3*07#",
       "Unsubscribe": "*101*4*07#",
       "Subscribe Through IVR": "Dial 3111 > 3 > 2"
-    }
+    },
+    "subscription_code": "*101*1*07#",
+    "subscription_number": "101",
+    "unsubscribe_code": "*101*4*07#",
+    "unsubscribe_number": "101",
+    "dial_code": "*101*1*07#"
   },
   {
     "plan_name": "Monthly YouTube & Social Offer",
@@ -687,7 +882,12 @@
       "Validity": "30 Days",
       "USSD": "*620#",
       "Price": "Rs. 521 (Incl. tax)"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*620#"
   },
   {
     "plan_name": "Jazz Caller Name",
@@ -701,7 +901,12 @@
     "terms_and_conditions": "How to activate Jazz Caller Name service?\n\nSend SUB to 7773 or dial *7773# for activation\nHow to De - activate Jazz Caller Name service?\nSend UNSUB to 7773 or dial *7773*5# for deactivation\nIn case of a change in package plan will service be get affected?\nNo. Service functionality won’t be affected in case of any package change\nIs the “HELP” menu free of cost?\nYes.\nWhat will happen if the prepaid customer has no balance?\nThe customer will continue to enjoy service. However, he will be charged for the service, in arrears, once he recharges his account with a sufficient amount.\nHow many unknown calls can I identify every day using Jazz Caller Name service?\nThere is no limitation on the number of calls you receive\nHow can I change my name in the Jazz Caller Name service?\nYou can change your name by sending an SMS “N” followed by the name to 7773.\nHow can I hide my name from Jazz Caller Name service?\nYou can hide your name by sending SMS “U” to 7773\nHow can I stop receiving flash SMS from a specific number or an already saved number in my contact list?\nTo stop receiving flash SMS from a specific number send “CL:92XXX” to 7773 and you will not get any notification from that number\nHow can I receive flash SMS again from a specific number or an already saved number in my contact list?\nTo start receiving flash SMS again from a specific number send “RCL:92XXX” to 7773 and you will start getting notifications from that number\nHow can I change a Caller’s name?\nTo change a Caller Name send “CN:92XXX,Name” to 7773. Now you will see the updated name of the caller when he/she will call you.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Monthly Freedom",
@@ -719,7 +924,12 @@
       "Subscription Fee": "Rs 2,347 (Incl. Tax)",
       "Subscription Code": "*733#",
       "Validity": "Monthly"
-    }
+    },
+    "subscription_code": "*733#",
+    "subscription_number": "733",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*733#"
   },
   {
     "plan_name": "Weekly Freedom",
@@ -739,7 +949,12 @@
       "Validity": "7 Days",
       "Status Code": "*737*2#",
       "Bundle Information Code": "*737*3#"
-    }
+    },
+    "subscription_code": "*737#",
+    "subscription_number": "737",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*737#"
   },
   {
     "plan_name": "Chenab Plus Haftawaar Offer",
@@ -762,7 +977,12 @@
       "Price (Inc. Tax)": "Rs. 286",
       "Recharge Required": "Rs. 220",
       "Subscription String": "*764#"
-    }
+    },
+    "subscription_code": "*764#",
+    "subscription_number": "764",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*764#"
   },
   {
     "plan_name": "Haafiz Plan",
@@ -776,7 +996,12 @@
     "terms_and_conditions": "Hafiz Plan is underwritten by EFU Life and distributed by Hello Doctor\nEFU Life is a leading life insurance company and is part of largest insurance group in Pakistan which provides insurance coverage to millions of Pakistanis.\nHello Doctor is a Healthtech Platform and is also acting as Corporate Insurance Agent for EFU Life responsible for acquiring and servicing customers.\nJazz Telecom is facilitating this offering but shall not be responsible for any grievance of the Jazz Customer relating to Hafiz Plan and EFU Life Insurance’s or Hello Doctor’s performance of its obligation\nDEFINITIONS\nIn these provisions:\nHAAFIZ PLAN means a term assurance product which provides a guaranteed level of life insurance protection against death, accidental permanent total disability alongwith Telehealth Services.\nACCIDENT means accidental bodily injury which is caused solely by violent, external and accidental means resulting directly and independently of all other causes.\nAUTHORIZED REPRESENTATIVE means an official of the Company who has been authorized by the Company to transact business on behalf of the Company under this Policy.\nCOMPANY means EFU Life Assurance Limited\nELIGIBLE PERSON means customers of the Group Policy Holder, male or female Pakistani nationals, who is eligible for insurance cover under this policy in accordance with Clause 2 of these provisions and conditions.\nCOMMENCEMENT DATE means the date on which the cover becomes effective which will be from 00:01 hours on the 1st day of next month following the date on which the premium is paid after acceptance of the application by the Member.\nGROUP POLICY HOLDER means Pakistan Mobile Communications Limited or Jazz.\nENROLLMENT DATE means the date on which the Member was initially enrolled under this Policy.\nENROLLMENT MONTHIVERSARY DATE means a period of one month of the date on which an Insured Person was initially enrolled under this Policy.\nCORPORATE INSURANCE AGENT means Hello Doctor (Private) Limited responsible for providing Telehealth services, enrolling and servicing customers.\nMOBILE NETWORK OPERATOR means Pakistan Mobile Communications Limited, a company duly incorporated and registered under the Companies Ordinance 1984 of Pakistan and having its registered office at 1 - A Kohistan Road, DHQ - 1 F - 8 Markaz, Islamabad, Pakistan.\nMEMBER means an Eligible Person who is to be included in this policy after giving his valid documented or recorded consent to purchase this insurance and pay required premium amount.\nNOMINEE means a person or persons appointed by the Member (under the provisions of the Insurance Ordinance 2000) to receive the benefits payable under the policy.\nPOLICY TERM means the period of one month beginning from the first day of a calendar month and ending on the last day of same calendar month.\nRENEWAL DATE means any subsequent monthiversary of the Commencement Date.\nRENEWAL ENROLLMENT means Re - enrolment of the Member into this Policy upon payment of premium on Renewal Date.\nSICKNESS means sickness or disease contracted for the first time after the Commencement Date or Renewal Date.\nWords importing the singular number include the plural number and vice versa and words of masculine gender shall include the feminine unless the context otherwise requires.\nELIGIBILITY\nThe eligible persons for this Policy are the present and future customers of the Group Policy Holder who are within the Eligibility Age range i.e. 18 to 66 years and have given their valid consent to opt for insurance cover under this policy. Any Member shall not be eligible for multiple enrollments at a single point in time.\nEFFECTIVE DATE OF INDIVIDUAL ASSURANCE\nMember will become eligible from 1st day of next calendar month following the date on which the premium is paid after acceptance of the application by the Member.\nEVIDENCE OF AGE\nEvidence of age of a Member satisfactory to the Company will be required before any benefit in respect of him/her is paid under this Policy and if after commencement of the insurance cover hereunder the date of birth of any Member is found to have been incorrectly notified to the Company, the Company shall notify the Group Policyholder of the adjustment to be made under this Policy in respect of such incorrect notification. No benefit whatsoever shall be payable under the Policy if the correct age of the Member is found to be more than maximum eligibility age of 66 years.\nAMOUNT & CALCULATION OF PREMIUM\nPremiums under this Policy are payable by the Group Policy Holder at such office/ offices of the Company as the Company may designate in writing to the Group Policy Holder from time to time. The Company may authorize the Corporate Insurance Agent to collect premium from the Group Policy Holder on its behalf. Such authorization will be in writing and provided to the Group Policy Holder.\nPremiums are due by the 1st of each calendar month for all such eligible Members, who are to be covered as per the terms and conditions of the Policy. At the time of initial enrollment of the Member and at each subsequent Renewal Enrollment, the Group Policy Holder will calculate the monthly premium as per the following table:\nPlan Category\nMonthly Premium (PKR)\nDaily Premium (PKR)\n\nSilver\n94.5\n3.15\nGold\n132\n4.4\nPlatinum\n179.4\n5.98\n\nThe coverage will start from the 1st day of the next month. Where full premium for an insured Member is not paid any benefit amount will be adjusted on Pro rata basis as per the variant wise table below.\n\nSilver\nAmount of End User Price paid in calendar\nmonth (PKR)\nEducation Continuation Benefit\n(12 Months)\nIncome Continuation Benefit\n(12 Months)\nAccidental Death Benefit\n(Lump sum)\nTelehealth Subscription\n\nNil\nNil\nNil\nNil\nNil\n3.15\n66.67\n333.33\n8,333.33\nUnlimited per month for family\n6.3\n133.33\n666.67\n16,666.67\nUnlimited per month for family\n9.45\n200\n1,000.00\n25,000.00\nUnlimited per month for family\n12.6\n266.67\n1,333.33\n33,333.33\nUnlimited per month for family\n15.75\n333.33\n1,666.67\n41,666.67\nUnlimited per month for family\n18.9\n400\n2,000.00\n50,000.00\nUnlimited per month for family\n22.05\n466.67\n2,333.33\n58,333.33\nUnlimited per month for family\n25.2\n533.33\n2,666.67\n66,666.67\nUnlimited per month for family\n28.35\n600\n3,000.00\n75,000.00\nUnlimited per month for family\n31.5\n666.67\n3,333.33\n83,333.33\nUnlimited per month for family\n34.65\n733.33\n3,666.67\n91,666.67\nUnlimited per month for family\n37.8\n800\n4,000.00\n100,000.00\nUnlimited per month for family\n40.95\n866.67\n4,333.33\n108,333.33\nUnlimited per month for family\n44.1\n933.33\n4,666.67\n116,666.67\nUnlimited per month for family\n47.25\n1,000.00\n5,000.00\n125,000.00\nUnlimited per month for family\n50.4\n1,066.67\n5,333.33\n133,333.33\nUnlimited per month for family\n53.55\n1,133.33\n5,666.67\n141,666.67\nUnlimited per month for family\n56.7\n1,200.00\n6,000.00\n150,000.00\nUnlimited per month for family\n59.85\n1,266.67\n6,333.33\n158,333.33\nUnlimited per month for family\n63\n1,333.33\n6,666.67\n166,666.67\nUnlimited per month for family\n66.15\n1,400.00\n7,000.00\n175,000.00\nUnlimited per month for family\n69.3\n1,466.67\n7,333.33\n183,333.33\nUnlimited per month for family\n72.45\n1,533.33\n7,666.67\n191,666.67\nUnlimited per month for family\n75.6\n1,600.00\n8,000.00\n200,000.00\nUnlimited per month for family\n78.75\n1,666.67\n8,333.33\n208,333.33\nUnlimited per month for family\n81.9\n1,733.33\n8,666.67\n216,666.67\nUnlimited per month for family\n85.05\n1,800.00\n9,000.00\n225,000.00\nUnlimited per month for family\n88.2\n1,866.67\n9,333.33\n233,333.33\nUnlimited per month for family\n91.35\n1,933.33\n9,666.67\n241,666.67\nUnlimited per month for family\n94.5\n2,000.00\n10,000.00\n250,000.00\nUnlimited per month for family\n\nGold Plan\nAmount of End User Price paid in calendar month (PKR)\nEducation Continuation Benefit(12 Months)\nIncome Continuation Benefit (12 Months)\nAccidental Death Benefit (Lump sum)\nTelehealth Subscription\n\nNil\nNil\nNil\nNil\nNil\n4.4\n100\n500\n11,666.67\nUnlimited per month for family\n8.8\n200\n1,000.00\n23,333.33\nUnlimited per month for family\n13.2\n300\n1,500.00\n35,000.00\nUnlimited per month for family\n17.6\n400\n2,000.00\n46,666.67\nUnlimited per month for family\n22\n500\n2,500.00\n58,333.33\nUnlimited per month for family\n26.4\n600\n3,000.00\n70,000.00\nUnlimited per month for family\n30.8\n700\n3,500.00\n81,666.67\nUnlimited per month for family\n35.2\n800\n4,000.00\n93,333.33\nUnlimited per month for family\n39.6\n900\n4,500.00\n105,000.00\nUnlimited per month for family\n44\n1,000.00\n5,000.00\n116,666.67\nUnlimited per month for family\n48.4\n1,100.00\n5,500.00\n128,333.33\nUnlimited per month for family\n52.8\n1,200.00\n6,000.00\n140,000.00\nUnlimited per month for family\n57.2\n1,300.00\n6,500.00\n151,666.67\nUnlimited per month for family\n61.6\n1,400.00\n7,000.00\n163,333.33\nUnlimited per month for family\n66\n1,500.00\n7,500.00\n175,000.00\nUnlimited per month for family\n70.4\n1,600.00\n8,000.00\n186,666.67\nUnlimited per month for family\n74.8\n1,700.00\n8,500.00\n198,333.33\nUnlimited per month for family\n79.2\n1,800.00\n9,000.00\n210,000.00\nUnlimited per month for family\n83.6\n1,900.00\n9,500.00\n221,666.67\nUnlimited per month for family\n88\n2,000.00\n10,000.00\n233,333.33\nUnlimited per month for family\n92.4\n2,100.00\n10,500.00\n245,000.00\nUnlimited per month for family\n96.8\n2,200.00\n11,000.00\n256,666.67\nUnlimited per month for family\n101.2\n2,300.00\n11,500.00\n268,333.33\nUnlimited per month for family\n105.6\n2,400.00\n12,000.00\n280,000.00\nUnlimited per month for family\n110\n2,500.00\n12,500.00\n291,666.67\nUnlimited per month for family\n114.4\n2,600.00\n13,000.00\n303,333.33\nUnlimited per month for family\n118.8\n2,700.00\n13,500.00\n315,000.00\nUnlimited per month for family\n123.2\n2,800.00\n14,000.00\n326,666.67\nUnlimited per month for family\n127.6\n2,900.00\n14,500.00\n338,333.33\nUnlimited per month for family\n132\n3,000.00\n15,000.00\n350,000.00\nUnlimited per month for family\n\nPlatinum Plan\nAmount of End User Price paid in calendar month (PKR)\nEducation Continuation Benefit (12 Months)\nIncome Continuation Benefit (12 Months)\nAccidental Death Benefit (Lump sum)\nTelehealth Subscription\n\nNil\nNil\nNil\nNil\nNil\n5.98\n166.67\n666.67\n16,666.67\nUnlimited per month for family\n11.96\n333.33\n1,333.33\n33,333.33\nUnlimited per month for family\n17.94\n500\n2,000.00\n50,000.00\nUnlimited per month for family\n23.92\n666.67\n2,666.67\n66,666.67\nUnlimited per month for family\n29.9\n833.33\n3,333.33\n83,333.33\nUnlimited per month for family\n35.88\n1,000.00\n4,000.00\n100,000.00\nUnlimited per month for family\n41.86\n1,166.67\n4,666.67\n116,666.67\nUnlimited per month for family\n47.84\n1,333.33\n5,333.33\n133,333.33\nUnlimited per month for family\n53.82\n1,500.00\n6,000.00\n150,000.00\nUnlimited per month for family\n59.8\n1,666.67\n6,666.67\n166,666.67\nUnlimited per month for family\n65.78\n1,833.33\n7,333.33\n183,333.33\nUnlimited per month for family\n71.76\n2,000.00\n8,000.00\n200,000.00\nUnlimited per month for family\n77.74\n2,166.67\n8,666.67\n216,666.67\nUnlimited per month for family\n83.72\n2,333.33\n9,333.33\n233,333.33\nUnlimited per month for family\n89.7\n2,500.00\n10,000.00\n250,000.00\nUnlimited per month for family\n95.68\n2,666.67\n10,666.67\n266,666.67\nUnlimited per month for family\n101.66\n2,833.33\n11,333.33\n283,333.33\nUnlimited per month for family\n107.64\n3,000.00\n12,000.00\n300,000.00\nUnlimited per month for family\n113.62\n3,166.67\n12,666.67\n316,666.67\nUnlimited per month for family\n119.6\n3,333.33\n13,333.33\n333,333.33\nUnlimited per month for family\n125.58\n3,500.00\n14,000.00\n350,000.00\nUnlimited per month for family\n131.56\n3,666.67\n14,666.67\n366,666.67\nUnlimited per month for family\n137.54\n3,833.33\n15,333.33\n383,333.33\nUnlimited per month for family\n143.52\n4,000.00\n16,000.00\n400,000.00\nUnlimited per month for family\n149.5\n4,166.67\n16,666.67\n416,666.67\nUnlimited per month for family\n155.48\n4,333.33\n17,333.33\n433,333.33\nUnlimited per month for family\n161.46\n4,500.00\n18,000.00\n450,000.00\nUnlimited per month for family\n167.44\n4,666.67\n18,666.67\n466,666.67\nUnlimited per month for family\n173.42\n4,833.33\n19,333.33\n483,333.33\nUnlimited per month for family\n179.4\n5,000.00\n20,000.00\n500,000.00\nUnlimited per month for family\n\nBENEFITS\nUpon receipt of due proof in writing that the Member has, whilst the Policy is in full force and effect, suffered any of the event(s) set out below, the Company, subject to the exclusions set out below and the terms and conditions contained herein, shall pay the following Benefits.\nDEATH BENEFIT:On death of the Member, whilst the Policy is in full force and effect, the amount of benefit payable shall be determined according to the Plan Category chosen by the Member from the table given hereunder:\n\nPlan Category\nMonthly Education Continuation Benefit for 12 months (PKR)\nMonthly Income Continuation Benefit for 12 months (PKR)\n\nSilver\n2,000\n10,000\nGold\n3,000\n15,000\nPlatinum\n5,000\n20,000\n\nADDITIONAL ACCIDENTAL DEATH BENEFIT:If the Member dies as a result of injuries caused solely by violent, external and accidental means and there is evidence of a visible contusion or wound on exterior of the body except in the case of drowning or of an internal injury revealed by an autopsy, and that such death occurred within 90 days of the accident solely as a result of the same injury and not as an indirect result of any fit, physical defect, illness or disorder, the Company, upon receipt of and due investigation of the claim, will pay an amount shown in the Table of Death Risk below, in addition to any benefits under the Policy.\nTABLE OF ACCIDENTAL DEATH RISK\nPlan Category\nSum Assured (PKR)\n\nSilver\n250,000\nGold\n350,000\nPlatinum\n500,000\n\nACCIDENTAL PERMANENT TOTAL DISABILITY BENEFIT:If the Member whilst the Policy is in full force has sustained injuries caused solely by violent external and accidental means and within 90 days of the accident suffers the losses set out in the Table of Benefits of Accidental Disability solely as a result of the same injuries, the Company, upon receipt of and due investigation of the claim, will pay an amount depending on the type of loss as provided in the Table of benefits of Accidental Disability below.\n\nPermanent Total Disability due to Accident\nS. No.\nDescription of Injuries\nPercentage of Sum Covered\n\n1.\nLoss of both hands or amputation at higher sites\n100%\n2.\nLoss of hand and a foot\n100%\n3.\nDouble amputation through leg or thigh; or amputation through leg or thigh on one side and loss of other foot\n100%\n4.\nLoss of sight to such an extent as to render the claimant unable to perform any work for which eye - sight is essential\n100%\n5.\nAbsolute deafness\n100%\n\nCESSATION OF MEMBERSHIP\nInsurance Cover shall cease on any of the following:\n\nMember’s death or total disability.\nMember having attained the age of 66 years.\nNon - payment of premium by the Member when due.\nAny other date on which the Member ceases to be eligible for insurance cover for any fraudulent or criminal reason affecting the insurance cover hereunder. Decision of the court shall be final in such cases.\n\nEXCLUSIONS\nNo benefit will be paid if the death or disability of the Member results directly, wholly or partly, as a result of or related to:\n\nIntentional self - inflicted injury or its attempt, murder, suicide and violation of law;\nWar, strikes, riots, civil commotion and any natural or man - made perils (including chemical, nuclear, biological, and radiological) that results in the declaration of a state of emergency on a local or national level;\n\nASSIGNMENT\nThe insurance cover provided for under this Policy and the benefits payable hereunder are not assignable.\nCLAIMS\nIn case of any claim under the benefit(s) covered against in this policy, the same shall be notified to the Company. The Member or the Nominee at its own expense, shall furnish all information necessary to determine whether the Benefit Claimed is payable or not to the Member or the Nominee.\nWritten notice of claim must be presented to and received at the Main Office of the Company within three hundred and sixty five (365) days after the date of event giving rise to the claim. Otherwise the claim shall be invalid.\nCompany, upon receipt of such notice, will furnish forms for filing proof of Claim. The forms along with astandard claim requirements quoted by the Company must be completed and returned to within fifteen (15) days from claim notification date for which the claim is made. Such forms may include, but not limited to, the following documents.\n\nCopy of Death certificate issued by NADRA / Union Council\nCopy of CNIC of claimant and nominee and deceased member\nClaimant Statement Form\nAttending Physician’s Statement Form/Report\nPolice & MLO Report (in case of accidental causes)\nHospital Death Certificate\nPast Medical records\nDisability claim forms\nPast medical records\nTreatment record giving dates of admission and discharge, diagnosis and treatment given\nMedical Certificate issued by treating doctor\nAny other document deemed to be necessary for claim assessment and finalization\n\nThe insurance cover effected hereunder shall carry no paid - up or surrender value.\nClaim will be processed by the Company following the submission of the claim documents to the Company or an entity authorized by the Company.\nRENEWAL PRIVILEGE\nThis Policy is issued for the period shown in the Policy Schedule and may be renewed by the Member on subsequent Renewal Date subject to the conditions hereof. Renewal will be affected by the payment of the required premium when due.\nCHANGE OF OWNERSHIP\nIf the business of the Group Policy Holder is transferred to or succeeded by any person or corporation then, subject to the consent of the Company, the payment of premium under this Policy may at the option of such person or corporation be continued in which case such person or corporation shall as from the date of such transfer or succession take the place of and be treated for all purposes of this Policy as being the Group Policy Holder hereof.\n\nTERMINATION OF THIS POLICY\n\nThe Company reserves the right to terminate the Policy by giving 90 days’ notice. It is clarified that any termination shall not affect the obligations of Group Policy Holder and Company assumed at any time prior to the effective date of termination. Further, the Company reserves the right to give the Group Policy Holder three months’ written notice to add, alter or repeal the terms and conditions of the Policy hereof.\nNotwithstanding anything to the contrary in this Policy, the termination of this Policy shall have the following effect:\n\nNo individual enrollment shall be entertained under this Policy after the time of termination.\n\nLAW\nThe policy is governed by and interpreted according to the laws of Islamic Republic of Pakistan.\nSTATUTORY FUND\nUnder the provisions of the Insurance Ordinance 2000 this policy and any additional benefits shall be referable to the Conventional Business Statutory Fund of the Company. The Company may by endorsement to the Policy change the Statutory Fund(s) to which the policy and any additional benefits are referable.\nDISCLAIMER/ TERMS OF USE of Telemedicine Services:\nTERMS OF USE\nServices Provided:\n\nVideo/Audio primary care medical consultations from PMC certified general practitioner.\nAppointment booking for in - house primary care consultation by PMC certified general practitioner.\nAccess to HD electronic medical records for HD application users.\nProvisional access to awareness/preventive care recorded medical sessions by PMC - certified doctors. (as and when available)\nProvisional access to fitness - related workout sessions by certified HD fitness trainers. (as and when available)\nProvisional access to healthy culinary sessions (as and when available)\n\nUse of Telemedicine Services is NOT FOR EMERGENCIES:\nHello Doctor services are primary care services and will only be used for non - emergency conditions.\nPrivacy:\nHello Doctor is HIPAA compliant and maintain privacy as per the standards of Health Insurance Portability and Accountability Act.\nLimitations of Tele - Health:\nTele health is limited to the consultation where physical examination through touching can be bypassed (in case of non - emergency conditions)\nComplaints and Disputes:\nComplaints and disputes can be highlighted via UAN number (042 111 333 033) or contacting via email address [email protected] turnaround time would be 48 working hours\nRequirements:\nApart from registration and mobile application, user would require.\n\nHigh speed uninterrupted internet for video calling.\nGSM/Landline number to call on UAN for consultation.\nInternet and customer availability at booked time to avail appointed consultation.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Haafiz Plus Plan",
@@ -790,7 +1015,12 @@
     "terms_and_conditions": "Hafiz Plus Plan is underwritten by EFU Life and distributed by Hello Doctor\nEFU Life is a leading life insurance company and is part of largest insurance group in Pakistan which provides insurance coverage to millions of Pakistanis.\nHello Doctor is a Healthtech Platform and is also acting as Corporate Insurance Agent for EFU Life responsible for acquiring and servicing customers.\nJazz Telecom is facilitating this offering but shall not be responsible for any grievance of the Jazz Customer relating to Hafiz Plan and EFU Life Insurance’s or Hello Doctor’s performance of its obligation\nDEFINITIONS\nIn these provisions:\nHAAFIZ PLUS PLAN means a term assurance product which provides a guaranteed level of life insurance protection against death, accidental permanent total disability or major medical illness treatment\nACCIDENT means accidental bodily injury which is caused solely by violent, external and accidental means resulting directly and independently of all other causes.\nAUTHORIZED REPRESENTATIVE means an official of the Company who has been authorized by the Company to transact business on behalf of the Company under this Policy.\nCOMPANY means EFU Life Assurance Limited\nELIGIBLE PERSON means customers of the Group Policy Holder, male or female Pakistani nationals, who is eligible for insurance cover under this policy in accordance with Clause 2 of these provisions and conditions.\nCOMMENCEMENT DATE means the date on which the cover becomes effective which will be from 00:01 hours on the 1st day of next month following the date on which the premium is paid after acceptance of the application by the Member.\nGROUP POLICY HOLDER means Pakistan Mobile Communications Limited or Jazz.\nENROLLMENT DATE means the date on which the Member was initially enrolled under this Policy.\nENROLLMENT MONTHIVERSARY DATE means a period of one month of the date on which an Insured Person was initially enrolled under this Policy.\nCORPORATE INSURANCE AGENT means Hello Doctor (Private) Limited responsible for providing Telehealth services, enrolling and servicing customers.\nMAJOR MEDICAL ILLNESS CONDITIONS means one or more of the following:\n\n1. Cancer\n2. Heart Attack\n3. Stroke\n4. Kidney & Renal Failure\n5. Blindness & Deafness\n6. Major Organ Transplant\n\nMOBILE NETWORK OPERATOR means Pakistan Mobile Communications Limited, a company duly incorporated and registered under the Companies Ordinance 1984 of Pakistan and having its registered office at 1 - A Kohistan Road, DHQ - 1 F - 8 Markaz, Islamabad, Pakistan.\nMEMBER means an Eligible Person who is to be included in this policy after giving his valid documented or recorded consent to purchase this insurance and pay required premium amount.\nNOMINEE means a person or persons appointed by the Member (under the provisions of the Insurance Ordinance 2000) to receive the benefits payable under the policy.\nPOLICY TERM means the period of one month beginning from the first day of a calendar month and ending on the last day of same calendar month.\nRENEWAL DATE means any subsequent monthiversary of the Commencement Date.\nRENEWAL ENROLLMENT means Re - enrolment of the Member into this Policy upon payment of premium on Renewal Date.\nSICKNESS means sickness or disease contracted for the first time after the Commencement Date or Renewal Date.\nWords importing the singular number include the plural number and vice versa and words of masculine gender shall include the feminine unless the context otherwise requires.\n2. ELIGIBILITY\nThe eligible persons for this Policy are the present and future customers of the Group Policy Holder who are within the Eligibility Age range i.e. 18 to 51 years and have given their valid consent to opt for insurance cover under this policy. Any Member shall not be eligible for multiple enrollments at a single point in time.\n3. EFFECTIVE DATE OF INDIVIDUAL ASSURANCE\nMember will become eligible from 1st day of next calendar month following the date on which the premium is paid after acceptance of the application by the Member.\n4. EVIDENCE OF AGE\nEvidence of age of a Member satisfactory to the Company will be required before any benefit in respect of him/her is paid under this Policy and if after commencement of the insurance cover hereunder the date of birth of any Member is found to have been incorrectly notified to the Company, the Company shall notify the Group Policyholder of the adjustment to be made under this Policy in respect of such incorrect notification. No benefit whatsoever shall be payable under the Policy if the correct age of the Member is found to be more than maximum eligibility age of 51 years.\n5. AMOUNT & CALCULATION OF PREMIUM\nPremiums under this Policy are payable by the Group Policy Holder at such office/ offices of the Company as the Company may designate in writing to the Group Policy Holder from time to time. The Company may authorize the Insurance Broker to collect premium from the Group Policy Holder on its behalf. Such authorization will be in writing and provided to the Group Policy Holder.\nPremiums are due by the 1st of each calendar month for all such eligible Members, who are to be covered as per the terms and conditions of the Policy. At the time of initial enrollment of the Member and at each subsequent Renewal Enrollment, the Group Policy Holder will calculate the monthly premium as per the following table:\nPlan Category\nMonthly Premium (PKR)\nDaily Premium (PKR)\n\nSilver\n132\n4.4\nGold\n186\n6.2\nPlatinum\n264\n8.8\n\nThe coverage will start from the 1st day of the next month. Where full premium for an insured Member is not paid the Benefit amount will be adjusted on Pro rata basis as per below variant table:\nSilver Plan:\nAmount of End User Price paid in calendar month (PKR)\nEducation Continuation Benefit\n(12 Months)\nIncome Continuation Benefit\n(12 Months)\nAccidental Death Benefit\n(Lump sum)\nMajor Medical Illness\nTelehealth Subscription\n\nNil\nNil\nNil\nNil\nNil\nNil\n4.4\n66.67\n333.33\n8,333.33\n833.33\nUnlimited per month for family\n8.8\n133.33\n666.67\n16,666.67\n1,666.67\nUnlimited per month for family\n13.2\n200\n1,000.00\n25,000.00\n2,500.00\nUnlimited per month for family\n17.6\n266.67\n1,333.33\n33,333.33\n3,333.33\nUnlimited per month for family\n22\n333.33\n1,666.67\n41,666.67\n4,166.67\nUnlimited per month for family\n26.4\n400\n2,000.00\n50,000.00\n5,000.00\nUnlimited per month for family\n30.8\n466.67\n2,333.33\n58,333.33\n5,833.33\nUnlimited per month for family\n35.2\n533.33\n2,666.67\n66,666.67\n6,666.67\nUnlimited per month for family\n39.6\n600\n3,000.00\n75,000.00\n7,500.00\nUnlimited per month for family\n44\n666.67\n3,333.33\n83,333.33\n8,333.33\nUnlimited per month for family\n48.4\n733.33\n3,666.67\n91,666.67\n9,166.67\nUnlimited per month for family\n52.8\n800\n4,000.00\n100,000.00\n10,000.00\nUnlimited per month for family\n57.2\n866.67\n4,333.33\n108,333.33\n10,833.33\nUnlimited per month for family\n61.6\n933.33\n4,666.67\n116,666.67\n11,666.67\nUnlimited per month for family\n66\n1,000.00\n5,000.00\n125,000.00\n12,500.00\nUnlimited per month for family\n70.4\n1,066.67\n5,333.33\n133,333.33\n13,333.33\nUnlimited per month for family\n74.8\n1,133.33\n5,666.67\n141,666.67\n14,166.67\nUnlimited per month for family\n79.2\n1,200.00\n6,000.00\n150,000.00\n15,000.00\nUnlimited per month for family\n83.6\n1,266.67\n6,333.33\n158,333.33\n15,833.33\nUnlimited per month for family\n88\n1,333.33\n6,666.67\n166,666.67\n16,666.67\nUnlimited per month for family\n92.4\n1,400.00\n7,000.00\n175,000.00\n17,500.00\nUnlimited per month for family\n96.8\n1,466.67\n7,333.33\n183,333.33\n18,333.33\nUnlimited per month for family\n101.2\n1,533.33\n7,666.67\n191,666.67\n19,166.67\nUnlimited per month for family\n105.6\n1,600.00\n8,000.00\n200,000.00\n20,000.00\nUnlimited per month for family\n110\n1,666.67\n8,333.33\n208,333.33\n20,833.33\nUnlimited per month for family\n114.4\n1,733.33\n8,666.67\n216,666.67\n21,666.67\nUnlimited per month for family\n118.8\n1,800.00\n9,000.00\n225,000.00\n22,500.00\nUnlimited per month for family\n123.2\n1,866.67\n9,333.33\n233,333.33\n23,333.33\nUnlimited per month for family\n127.6\n1,933.33\n9,666.67\n241,666.67\n24,166.67\nUnlimited per month for family\n132\n2,000.00\n10,000.00\n250,000.00\n25,000.00\nUnlimited per month for family\n\nGold Plan\nAmount of End User Price paid in calendar month (PKR)\nEducation Continuation Benefit (12 Months)\nIncome Continuation Benefit (12 Months)\nAccidental Death Benefit (Lump sum)\nMajor Medical Illness\nTelehealth Subscription\n\nNil\nNil\nNil\nNil\nNil\nNil\n6.2\n100\n500\n11,666.67\n1,166.67\nUnlimited per month for family\n12.4\n200\n1,000.00\n23,333.33\n2,333.33\nUnlimited per month for family\n18.6\n300\n1,500.00\n35,000.00\n3,500.00\nUnlimited per month for family\n24.8\n400\n2,000.00\n46,666.67\n4,666.67\nUnlimited per month for family\n31\n500\n2,500.00\n58,333.33\n5,833.33\nUnlimited per month for family\n37.2\n600\n3,000.00\n70,000.00\n7,000.00\nUnlimited per month for family\n43.4\n700\n3,500.00\n81,666.67\n8,166.67\nUnlimited per month for family\n49.6\n800\n4,000.00\n93,333.33\n9,333.33\nUnlimited per month for family\n55.8\n900\n4,500.00\n105,000.00\n10,500.00\nUnlimited per month for family\n62\n1,000.00\n5,000.00\n116,666.67\n11,666.67\nUnlimited per month for family\n68.2\n1,100.00\n5,500.00\n128,333.33\n12,833.33\nUnlimited per month for family\n74.4\n1,200.00\n6,000.00\n140,000.00\n14,000.00\nUnlimited per month for family\n80.6\n1,300.00\n6,500.00\n151,666.67\n15,166.67\nUnlimited per month for family\n86.8\n1,400.00\n7,000.00\n163,333.33\n16,333.33\nUnlimited per month for family\n93\n1,500.00\n7,500.00\n175,000.00\n17,500.00\nUnlimited per month for family\n99.2\n1,600.00\n8,000.00\n186,666.67\n18,666.67\nUnlimited per month for family\n105.4\n1,700.00\n8,500.00\n198,333.33\n19,833.33\nUnlimited per month for family\n111.6\n1,800.00\n9,000.00\n210,000.00\n21,000.00\nUnlimited per month for family\n117.8\n1,900.00\n9,500.00\n221,666.67\n22,166.67\nUnlimited per month for family\n124\n2,000.00\n10,000.00\n233,333.33\n23,333.33\nUnlimited per month for family\n130.2\n2,100.00\n10,500.00\n245,000.00\n24,500.00\nUnlimited per month for family\n136.4\n2,200.00\n11,000.00\n256,666.67\n25,666.67\nUnlimited per month for family\n142.6\n2,300.00\n11,500.00\n268,333.33\n26,833.33\nUnlimited per month for family\n148.8\n2,400.00\n12,000.00\n280,000.00\n28,000.00\nUnlimited per month for family\n155\n2,500.00\n12,500.00\n291,666.67\n29,166.67\nUnlimited per month for family\n161.2\n2,600.00\n13,000.00\n303,333.33\n30,333.33\nUnlimited per month for family\n167.4\n2,700.00\n13,500.00\n315,000.00\n31,500.00\nUnlimited per month for family\n173.6\n2,800.00\n14,000.00\n326,666.67\n32,666.67\nUnlimited per month for family\n179.8\n2,900.00\n14,500.00\n338,333.33\n33,833.33\nUnlimited per month for family\n186\n3,000.00\n15,000.00\n350,000.00\n35,000.00\nUnlimited per month for family\n\nPlatinum Plan\nAmount of End User Price paid in calendar month (PKR)\nEducation Continuation Benefit (12 Months)\nIncome Continuation Benefit (12 Months)\nAccidental Death Benefit (Lump sum)\nMajor Medical Illness\nTelehealth Subscription\n\nNil\nNil\nNil\nNil\nNil\nNil\n8.8\n166.67\n666.67\n16,666.67\n1,666.67\nUnlimited per month for family\n17.6\n333.33\n1,333.33\n33,333.33\n3,333.33\nUnlimited per month for family\n26.4\n500\n2,000.00\n50,000.00\n5,000.00\nUnlimited per month for family\n35.2\n666.67\n2,666.67\n66,666.67\n6,666.67\nUnlimited per month for family\n44\n833.33\n3,333.33\n83,333.33\n8,333.33\nUnlimited per month for family\n52.8\n1,000.00\n4,000.00\n100,000.00\n10,000.00\nUnlimited per month for family\n61.6\n1,166.67\n4,666.67\n116,666.67\n11,666.67\nUnlimited per month for family\n70.4\n1,333.33\n5,333.33\n133,333.33\n13,333.33\nUnlimited per month for family\n79.2\n1,500.00\n6,000.00\n150,000.00\n15,000.00\nUnlimited per month for family\n88\n1,666.67\n6,666.67\n166,666.67\n16,666.67\nUnlimited per month for family\n96.8\n1,833.33\n7,333.33\n183,333.33\n18,333.33\nUnlimited per month for family\n105.6\n2,000.00\n8,000.00\n200,000.00\n20,000.00\nUnlimited per month for family\n114.4\n2,166.67\n8,666.67\n216,666.67\n21,666.67\nUnlimited per month for family\n123.2\n2,333.33\n9,333.33\n233,333.33\n23,333.33\nUnlimited per month for family\n132\n2,500.00\n10,000.00\n250,000.00\n25,000.00\nUnlimited per month for family\n140.8\n2,666.67\n10,666.67\n266,666.67\n26,666.67\nUnlimited per month for family\n149.6\n2,833.33\n11,333.33\n283,333.33\n28,333.33\nUnlimited per month for family\n158.4\n3,000.00\n12,000.00\n300,000.00\n30,000.00\nUnlimited per month for family\n167.2\n3,166.67\n12,666.67\n316,666.67\n31,666.67\nUnlimited per month for family\n176\n3,333.33\n13,333.33\n333,333.33\n33,333.33\nUnlimited per month for family\n184.8\n3,500.00\n14,000.00\n350,000.00\n35,000.00\nUnlimited per month for family\n193.6\n3,666.67\n14,666.67\n366,666.67\n36,666.67\nUnlimited per month for family\n202.4\n3,833.33\n15,333.33\n383,333.33\n38,333.33\nUnlimited per month for family\n211.2\n4,000.00\n16,000.00\n400,000.00\n40,000.00\nUnlimited per month for family\n220\n4,166.67\n16,666.67\n416,666.67\n41,666.67\nUnlimited per month for family\n228.8\n4,333.33\n17,333.33\n433,333.33\n43,333.33\nUnlimited per month for family\n237.6\n4,500.00\n18,000.00\n450,000.00\n45,000.00\nUnlimited per month for family\n246.4\n4,666.67\n18,666.67\n466,666.67\n46,666.67\nUnlimited per month for family\n255.2\n4,833.33\n19,333.33\n483,333.33\n48,333.33\nUnlimited per month for family\n264\n5,000.00\n20,000.00\n500,000.00\n50,000.00\nUnlimited per month for family\n\n6. BENEFITS\nUpon receipt of due proof in writing that the Member has, whilst the Policy is in full force and effect, suffered any of the event(s) set out below, the Company, subject to the exclusions set out below and the terms and conditions contained herein, shall pay the following Benefits.\nDEATH BENEFIT:\nOn death of the Member, whilst the Policy is in full force and effect, the amount of benefit payable shall be determined according to the Plan Category chosen by the Member from the table given hereunder:\nPlan Category\nMonthly Education Continuation Benefit for 12 months (PKR)\nMonthly Income Continuation Benefit for 12 months (PKR)\n\nSilver\n2,000\n10,000\nGold\n3,000\n15,000\nPlatinum\n5,000\n20,000\n\nADDITIONAL ACCIDENTAL DEATH BENEFIT:\nIf the Member dies as a result of injuries caused solely by violent, external and accidental means and there is evidence of a visible contusion or wound on exterior of the body except in the case of drowning or of an internal injury revealed by an autopsy, and that such death occurred within 90 days of the accident solely as a result of the same injury and not as an indirect result of any fit, physical defect, illness or disorder, the Company, upon receipt of and due investigation of the claim, will pay an amount shown in the Table of Death Risk below, in addition to any benefits under the Policy.\nTABLE OF ACCIDENTAL DEATH RISK\nPlan Category\nSum Assured (PKR)\n\nSilver\n250,000\nGold\n350,000\nPlatinum\n500,000\n\nACCIDENTAL PERMANENT TOTAL DISABILITY BENEFIT:\nIf the Member whilst the Policy is in full force has sustained injuries caused solely by violent external and accidental means and within 90 days of the accident suffers the losses set out in the Table of Benefits of Accidental Disability solely as a result of the same injuries, the Company, upon receipt of and due investigation of the claim, will pay an amount depending on the type of loss as provided in the Table of benefits of Accidental Disability below.\nPermanent Total Disability due to Accident\nS. No.\nDescription of Injuries\nPercentage of Sum Covered\n\n1.\nLoss of both hands or amputation at higher sites\n100%\n2.\nLoss of hand and a foot\n100%\n3.\nDouble amputation through leg or thigh; or amputation through leg or\nthigh on one side and loss of other foot\n100%\n4.\nLoss of sight to such an extent as to render the claimant unable to\nperform any work for which eye - sight is essential\n100%\n5.\nAbsolute deafness\n100%\n\nMAJOR MEDICAL ILLNESS REIMBURSEMENT BENEFIT:\nIf the Member is diagnosed with any of the critical illnesses defined in this Policy under this benefit and has incurred medical expenses on account of treatment of the same illness, the Company, upon receipt of and due investigation of the claim, will pay an actual reimbursement amount up to the limit assigned as per the selected category to Member in addition to any benefit under the policy.\nPlan Category\nMaximum Reimbursement Amount Limit (PKR)\n\nSilver\n25,000\nGold\n35,000\nPlatinum\n50,000\n\nThere will only be one treatment allowed on the life of a Member in his lifetime.\nThe coverage will start from the 1st day of the next month. Where full premium for an insured Member is not paid any benefit amount will be adjusted on Pro rata basis as per above variant wise tables.\n7. CESSATION OF MEMBERSHIP\nInsurance Cover shall cease on any of the following:\n\na) Member’s death or total disability.\nb) Member having attained the age of 51 years.\nc) Non - payment of premium by the Member when due.\nd) Any other date on which the Member ceases to be eligible for insurance cover for any fraudulent or criminal reason affecting the insurance cover hereunder. Decision of the court shall be final in such cases.\n\n8. EXCLUSIONS\nNo benefit will be paid if the death or disability of the Member results directly, wholly or partly, as a result of or related to:\n\na) Intentional self - inflicted injury or its attempt, murder, suicide and violation of law;\nb) War, strikes, riots, civil commotion and any natural or man - made perils (including chemical, nuclear, biological, and radiological) that results in the declaration of a state of emergency on a local or national level;\n\nNo benefit will be paid if the illness of the Member results directly, wholly or partly, as a result of or related to:\n\na) Any major medical illness that was diagnosed prior to the commencement of the coverage (within three months from the enrollment/ re - enrollment date);\n\n9. ASSIGNMENT\nThe insurance cover provided for under this Policy and the benefits payable hereunder are not assignable.\n10. CLAIMS\nIn case of any claim under the benefit(s) covered against in this policy, the same shall be notified to the Company. The Member or the Nominee at its own expense, shall furnish all information necessary to determine whether the Benefit Claimed is payable or not to the Member or the Nominee.\nWritten notice of claim must be presented to and received at the Main Office of the Company within three - hundred and sixty five days (365) days after the date of event giving rise to the claim. Otherwise the claim shall be invalid.\nCompany, upon receipt of such notice, will furnish forms for filing proof of Claim. The forms along with standard claim requirements quoted by the Company must be completed and returned to within fifteen (15) days from claim notification date for which the claim is made. Such forms may include, but not limited to, the following documents.\n\na) Copy of Death certificate issued by NADRA / Union Council\nb) Copy of CNIC of claimant and nominee and deceased member\nc) Claimant Statement Form\nd) Attending Physician’s Statement Form/Report\ne) Police & MLO Report (in case of accidental causes)\nf) Hospital Death Certificate\ng) Past Medical records\nh) Disability claim forms\ni) Past medical records\nj) Treatment record giving dates of admission and discharge, diagnosis and treatment given\nk) Medical Certificate issued by treating doctor\nl) Any other document deemed to be necessary for claim assessment and finalization\n\nThe insurance cover effected hereunder shall carry no paid - up or surrender value.\nClaim will be processed by the Company following the submission of the claim documents to the Company or an entity authorized by the Company.\n11. RENEWAL PRIVILEGE\nThis Policy is issued for the period shown in the Policy Schedule and may be renewed by the Member on subsequent Renewal Date subject to the conditions hereof. Renewal will be effected by the payment of the required premium when due.\n12. CHANGE OF OWNERSHIP\nIf the business of the Group Policy Holder is transferred to or succeeded by any person or corporation then, subject to the consent of the Company, the payment of premium under this Policy may at the option of such person or corporation be continued in which case such person or corporation shall as from the date of such transfer or succession take the place of and be treated for all purposes of this Policy as being the Group Policy Holder hereof.\n13. TERMINATION OF THIS POLICY\nThe Company reserves the right to terminate the Policy by giving 90 days’ notice. It is clarified that any termination shall not affect the obligations of Group Policy Holder and Company assumed at any time prior to the effective date of termination. Further, the Company reserves the right to give the Group Policy Holder three months’ written notice to add, alter or repeal the terms and conditions of the Policy hereof.\nNotwithstanding anything to the contrary in this Policy, the termination of this Policy shall have the following effect:\n\na) No individual enrollment shall be entertained under this Policy after the time of termination.\n\n14. LAW\nThe policy is governed by and interpreted according to the laws of Islamic Republic of Pakistan.\n15. STATUTORY FUND\nUnder the provisions of the Insurance Ordinance 2000 this policy and any additional benefits shall be referable to the Conventional Business Statutory Fund of the Company. The Company may by endorsement to the Policy change the Statutory Fund(s) to which the policy and any additional benefits are referable.\nDISCLAIMER/ TERMS OF USE of Telemedicine Services:\nTERMS OF USE\n1. Services Provided:\n\n• Video/Audio primary care medical consultations from PMC certified general practitioner.\n• Appointment booking for in - house primary care consultation by PMC certified general practitioner.\n• Access to HD electronic medical records for HD application users.\n• Provisional access to awareness/preventive care recorded medical sessions by PMC - certified doctors. (as and when available)\n• Provisional access to fitness - related workout sessions by certified HD fitness trainers. (as and when available)\n• Provisional access to healthy culinary sessions (as and when available)\n\n2. Use of Telemedicine Services is NOT FOR EMERGENCIES:\nHello Doctor services are primary care services and will only be used for non - emergency conditions.\n3. Privacy:\nHello Doctor is HIPAA compliant and maintain privacy as per the standards of Health Insurance Portability and Accountability Act.\n8. Limitations of Tele - Health:\nTele health is limited to the consultation where physical examination through touching can be bypassed (in case of non - emergency conditions)\n9. Complaints and Disputes:\nComplaints and disputes can be highlighted via UAN number (042 111 333 033) or contacting via email address [email protected] turn around time would be 48 working hours\n10. Requirements\nApart from registration and mobile application, user would require.\n\nHigh speed uninterrupted internet for video calling.\nGSM/Landline number to call on UAN for consultation.\nInternet and customer availability at booked time to avail appointed consultation.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Bol Karachi Bol",
@@ -808,7 +1038,12 @@
       "Subscription Fee": "Rs. 173 (Incl. Tax)",
       "Validity": "7 Days",
       "Subscription String": "*2111#"
-    }
+    },
+    "subscription_code": "*2111#",
+    "subscription_number": "2111",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*2111#"
   },
   {
     "plan_name": "Jazz Tunes",
@@ -828,7 +1063,12 @@
       "Content Download": "Rs. 11.53 (Incl. tax)"
     },
     "currency": "PKR",
-    "billing_cycle": 1
+    "billing_cycle": 1,
+    "subscription_code": "SUB",
+    "subscription_number": "230",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "230",
+    "dial_code": null
   },
   {
     "plan_name": "MONTHLY bachat - offer",
@@ -845,7 +1085,12 @@
     "more_details": {
       "Subscription Fee": "Rs. 434 (Incl. Tax)",
       "Validity": "30 Days"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Monthly Premium Plus",
@@ -863,7 +1108,12 @@
       "Subscription Fee": "Rs. 1,739 (Incl. tax)",
       "Subscription Code": "*2000#/*389#",
       "Validity": "Monthly"
-    }
+    },
+    "subscription_code": "*2000#",
+    "subscription_number": "2000",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*2000#"
   },
   {
     "plan_name": "Lajawab Haftawar Offer",
@@ -881,7 +1131,12 @@
       "Subscription Code": "*565#",
       "Status Code": "*565*2#",
       "Validity": "Weekly"
-    }
+    },
+    "subscription_code": "*565#",
+    "subscription_number": "565",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*565#"
   },
   {
     "plan_name": "MYOB Make Your Own Bundle",
@@ -900,7 +1155,12 @@
       "StatusCode": "*303*30# for Monthly Validity"
     },
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": "*303#",
+    "subscription_number": "303",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*303#"
   },
   {
     "plan_name": "Sargodha Weekly Offer",
@@ -920,7 +1180,12 @@
       "Subscription Code": "*627#",
       "Status Code": "*627*2#",
       "Validity": "Weekly"
-    }
+    },
+    "subscription_code": "*627#",
+    "subscription_number": "627",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*627#"
   },
   {
     "plan_name": "Sindh Super Data Offer",
@@ -939,7 +1204,12 @@
       "SubscriptionCode": "*773#",
       "Validity": "Daily",
       "Status Code": "*773*2#"
-    }
+    },
+    "subscription_code": "*773#",
+    "subscription_number": "773",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*773#"
   },
   {
     "plan_name": "Quetta Haftawar Offer",
@@ -957,7 +1227,12 @@
       "Subscription Fee": "Rs. 330 (Incl. Tax)",
       "Subscription Code": "*609#",
       "Validity": "7 Days"
-    }
+    },
+    "subscription_code": "*609#",
+    "subscription_number": "609",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*609#"
   },
   {
     "plan_name": "Attock & Taxila Offer",
@@ -976,7 +1251,12 @@
       "SubscriptionCode": "*598#",
       "Validity": "x + 6 days",
       "Incentive": "10 GB Data, 500 Jazz Mins"
-    }
+    },
+    "subscription_code": "*598#",
+    "subscription_number": "598",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*598#"
   },
   {
     "plan_name": "Voice Infinity Offer",
@@ -996,7 +1276,12 @@
       "Status Code": "*710*2#",
       "Information Code": "*710*3#",
       "Validity": "90 Days"
-    }
+    },
+    "subscription_code": "*710#",
+    "subscription_number": "710",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*710#"
   },
   {
     "plan_name": "Prepaid VIP Call",
@@ -1016,7 +1301,12 @@
       "Unsubscribe": "Dial *847# or SMS ‘UNSUB’ to 847"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*847#",
+    "subscription_number": "847",
+    "unsubscribe_code": "*847#",
+    "unsubscribe_number": "847",
+    "dial_code": "*847#"
   },
   {
     "plan_name": "Bima Family",
@@ -1032,7 +1322,12 @@
       "Monthly personal, accidental & hospitalization insurance policy": "Monthly personal, accidental & hospitalization insurance policy"
     },
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Sindh Raabta Offer",
@@ -1051,7 +1346,12 @@
       "Subscription Code": "*766#",
       "Status Code": "*766*2#",
       "Validity": "Weekly"
-    }
+    },
+    "subscription_code": "*766#",
+    "subscription_number": "766",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*766#"
   },
   {
     "plan_name": "Super Woman Bundle",
@@ -1070,7 +1370,12 @@
       "Subscription Code": "*117*14#",
       "Status Code": "*117*14*2#",
       "Validity": "Weekly"
-    }
+    },
+    "subscription_code": "*117*14#",
+    "subscription_number": "117",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*117*14#"
   },
   {
     "plan_name": "Karachi, Hyderabad & Badin Haftawar Data Offer",
@@ -1088,7 +1393,12 @@
       "Subscription Fee": "Rs. 286 (Incl. Tax)",
       "Subscription Code": "*545#",
       "Validity": "Weekly"
-    }
+    },
+    "subscription_code": "*545#",
+    "subscription_number": "545",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*545#"
   },
   {
     "plan_name": "Jazz Lite",
@@ -1108,7 +1418,12 @@
       "Jazz Mins": "1.80 / 30Sec",
       "Other Network Mins": "1.80 / 30Sec",
       "SMS": "Rs. 2.15 / SMS"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Sindh Haftawar Offer",
@@ -1128,7 +1443,12 @@
       "Validity": "Weekly",
       "Unsubscribe": "*406*4#",
       "Status Code": "*406*2#"
-    }
+    },
+    "subscription_code": "*406#",
+    "subscription_number": "406",
+    "unsubscribe_code": "*406*4#",
+    "unsubscribe_number": "406",
+    "dial_code": "*406#"
   },
   {
     "plan_name": "Bakhabar Kissan",
@@ -1146,7 +1466,12 @@
       "Daily subscription fee": "Rs. 5 incl. tax/day"
     },
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "Dial 03 03 03 00 000",
+    "subscription_number": "000",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "000",
+    "dial_code": null
   },
   {
     "plan_name": "Weekly Super Max",
@@ -1166,7 +1491,12 @@
       "Validity": "Weekly",
       "Status Code": "*506*2#",
       "Bundle Information Code": "*506*3#"
-    }
+    },
+    "subscription_code": "*506#",
+    "subscription_number": "506",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*506#"
   },
   {
     "plan_name": "Gujrat & Jhelum Haftawar Offer",
@@ -1185,7 +1515,12 @@
       "Subscription Code": "*307#",
       "Validity": "7 Days",
       "Status Code": "*307*2#"
-    }
+    },
+    "subscription_code": "*307#",
+    "subscription_number": "307",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*307#"
   },
   {
     "plan_name": "Jobs Up",
@@ -1204,7 +1539,12 @@
       "Prepaid Charges": "Rs. 100+tax/Month"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "SUB",
+    "subscription_number": "3711",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "3711",
+    "dial_code": null
   },
   {
     "plan_name": "Jazz VAS Menu",
@@ -1222,7 +1562,12 @@
       "Unsubscription Code": "*6611#"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*6611#",
+    "subscription_number": "6611",
+    "unsubscribe_code": "*6611#",
+    "unsubscribe_number": "6611",
+    "dial_code": "*6611#"
   },
   {
     "plan_name": "Bima Accidental Insurance",
@@ -1236,7 +1581,12 @@
     "terms_and_conditions": "Charges and BIMA Cover:\n\nMonthly Price\nDaily Charges(PKR)\nMethod of Payment\nLevel of maximum insurance cover provided\nFuneral Expense (PKR)\nHospitalization due to Accident (PKR)\n\nRs. 90\nRs. 3\nPrepaid balance\nPKR 280,000\n50,000\n750\n\nRs. 150\nRs. 5\nPrepaid balance\nPKR 560,000\n100,000\n1,500\n\nRs. 315\nRs. 10.5\nPrepaid balance\nPKR 1,560,000\n225,000\n3,500\n\nRs. 570\nRs. 19\nPrepaid balance\nPKR 3,125,000\n450,000\n7,500\n\nPrepaid: The monthly price is charged in **installments over 30 days\n**Prepaid subscribers are eligible for Cover even if they are unable to pay the entire monthly price. For details please refer to the Terms &\nConditions\n**The monthly price is divided into 30 equal installments and is charged once per day until the entire month’s price is received. If your prepaid balance is low and you may not be charged for that day. A proportionately reduced amount of insurance benefit will be provided even after one day deduction.\nHow do I Claim:\nSMS ‘CLAIM’ to 9878 or call 042 - 111 - 119 - 878 no later than 270 days from the first night of hospitalization. A MILVIK representative will contact you with full information on how to process your claim.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Super Mahana Offer (Karachi Hybrid LBC)",
@@ -1254,7 +1604,12 @@
       "Subscription Fee": "Rs. 1200 (Incl. Tax)",
       "Subscription Code": "*529#",
       "Validity": "Monthly"
-    }
+    },
+    "subscription_code": "*529#",
+    "subscription_number": "529",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*529#"
   },
   {
     "plan_name": "J4U Just 4 You",
@@ -1270,7 +1625,12 @@
       "Subscription Code": "*5555#"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*5555#",
+    "subscription_number": "5555",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*5555#"
   },
   {
     "plan_name": "Prepaid Jazz My Status",
@@ -1290,7 +1650,12 @@
       "USSD Code": "Dial *969#"
     },
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*969#",
+    "subscription_number": "969",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "6085",
+    "dial_code": "*969#"
   },
   {
     "plan_name": "Peshawar, Chakwal & Abbottabad Haftawar Offer",
@@ -1308,7 +1673,12 @@
       "Subscription Fee": "Rs. 286 (Incl. Tax)",
       "Subscription Code": "*109#",
       "Validity": "Weekly"
-    }
+    },
+    "subscription_code": "*109#",
+    "subscription_number": "109",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*109#"
   },
   {
     "plan_name": "Call & SMS Block Service",
@@ -1326,7 +1696,12 @@
       "Charges": "Rs. 2 (Incl. Tax)/Day"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*420#",
+    "subscription_number": "420",
+    "unsubscribe_code": "*420#",
+    "unsubscribe_number": "420",
+    "dial_code": "*420#"
   },
   {
     "plan_name": "Jazz Share",
@@ -1345,7 +1720,12 @@
       "Max amount transferred per day": "Rs. 500"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Call Forwarding",
@@ -1359,7 +1739,12 @@
     "terms_and_conditions": "These terms and conditions are in addition to the general terms and conditions duly approved by PTA and agreed to by the customer in CSAF/eCSAF at the time of activation of connection/SIM.\nJazz reserves the right/discretion to set/change the price/rate of any offer/package/bundle or withdraw/change/revoke such offer/package/bundle at any time. Where required under PTA’s regulations, prior notice shall be given to affected customers accordingly.\nOffer Price/charges of each offer/package/bundle shall be subject to all applicable taxes, if any, irrespective of the fact in which area of the country the requisite offer/package/bundle is activated/service availed.\nThe charging system reserves certain proportion of available data volume in MBs of your package against opening/accessing of each application/website on the device, therefore, the simultaneous opening/accessing of multiple applications and/or websites may result in reserving all your available data volume in MBs of your package and may start charging on base rate of your package.\nThe amount of balance and recharge required for bundles may be rounded up to the nearest whole number.\nIn case of any queries, questions, complaints or additional requirements, please email us at: [email protected]\nUnwanted and unethical (unreasonable) messages can be reported by texting SENDER’s NUMBER (SPACE) message to 9000 –PTA\nUsing a SIM which is not in your name or allowing others to use your SIM is a crime – PTA\nDial 420 to block unsolicited calls/messages (charges applicable).\nUnsolicited marketing communication can be blocked using “Do Not Call Register” service by texting “ON” or “SUB” to 3627. It is a free of cost service provided to Jazz customers.\nThe term “Purchase of Sim” means procuring/acquiring connection to the network of PMCL by a customer for availing telecommunication and other related services from PMCL. SIM always remains the property of PMCL and by issuing SIM to customer, only rights to use are given and no ownership is transferred to the customer in any manner, whatsoever. The customer is bound to return the SIM to PMCL in case he stops using service or agreement is terminated or he changes the network through MNP.\nBill date for all postpaid subscribers will be changed to 2nd of every month in 2021. Due to this change, customers will get a separate bill for difference in days for execution month. Min/MB charging will be prorated as per package.\n\nDetails of applicable Taxes/charges on usage and recharge in Pakistan and AJK are given below:\nAdvance income tax rate is @15% on each recharge.\n\nRate of sales tax in Federal Territory of Islamabad is 16%\nRate of sales tax in rest of Pakistan and AJK is 19.5%\nGB is exempted from taxes.\nA late payment fee of PKR 50 will be charged on bills remaining unpaid after the due date.\nUpon dialing package string customer will be subscribed to the package for exact validity days (including subscription day), offer and its incentives will expire on midnight of the last validity day. Monthly offers will have validity of x+29 days and weekly will have validity of x+6 days.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Conference Call",
@@ -1377,7 +1762,12 @@
       "Charges": "No Subscription Charges"
     },
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*188#",
+    "subscription_number": "188",
+    "unsubscribe_code": "*188*1#",
+    "unsubscribe_number": "188",
+    "dial_code": "*188#"
   },
   {
     "plan_name": "Jazz Auto Reply",
@@ -1395,7 +1785,12 @@
       "Charges": "Rs. 1.80/day (Incl. tax)"
     },
     "currency": "PKR",
-    "billing_cycle": 1
+    "billing_cycle": 1,
+    "subscription_code": "Dial 7071",
+    "subscription_number": "7071",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "7071",
+    "dial_code": null
   },
   {
     "plan_name": "Bima Sehat",
@@ -1409,7 +1804,12 @@
     "terms_and_conditions": "Charges and BIMA Sehat Cover:\n\nPlan\n**Daily Price\n**Monthly Price\n\nMaximum sum assured per night (max 30 nights per year)\n\nSilver\nRs. 3\nRs. 90\nRs. 1,250\n\nGold\nRs. 5\nRs. 150\nRs. 3,000\n\nPlatinum\nRs. 9.5\nRs. 285\nRs. 7,000\n\nDiamond\nRs. 17\nRs. 510\nRs. 15,000\n\nPrepaid: The monthly price is charged in **installments over 30\ndays\n**Prepaid subscribers are eligible for Cover even if they are unable to pay the\nentire monthly price. For details, please refer to the Terms &\nConditions\n**The monthly price is divided into 30 equal installments and is charged once per day\nuntil the entire month’s price is received. If your prepaid balance is low and you may\nnot be charged for that day. A proportionately reduced amount of insurance benefit will\nbe provided even after one day deduction.\nHow do I Claim:\nSMS ‘CLAIM’ to 9878 or call 042 - 111 - 119 - 878 no later than 270 days from the first night\nof hospitalization. A MILVIK representative will contact you with full information on\nhow to process your claim.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Beep Call",
@@ -1427,7 +1827,12 @@
       "Charges": "Rs 0.14 (Incl. tax)/Beep"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "SUB",
+    "subscription_number": "5188",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "5188",
+    "dial_code": null
   },
   {
     "plan_name": "Jazz Notify Me",
@@ -1445,7 +1850,12 @@
       "Charges": "Rs. 2.20/day (Incl. Tax) for all prepaid packages"
     },
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*6528#",
+    "subscription_number": "6528",
+    "unsubscribe_code": "*6528*1#",
+    "unsubscribe_number": "6528",
+    "dial_code": "*6528#"
   },
   {
     "plan_name": "End of Call Notification",
@@ -1463,7 +1873,12 @@
       "Charges": "Rs. 1.2/Day (Inclusive of taxes)"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*122#",
+    "subscription_number": "122",
+    "unsubscribe_code": "*122*4#",
+    "unsubscribe_number": "122",
+    "dial_code": "*122#"
   },
   {
     "plan_name": "Missed Call Alert",
@@ -1481,7 +1896,12 @@
       "Charges": "Rs. 3.20(Incl. Tax)/Day"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*180#",
+    "subscription_number": "180",
+    "unsubscribe_code": "*180*1#",
+    "unsubscribe_number": "180",
+    "dial_code": "*180#"
   },
   {
     "plan_name": "3 Day Max Offer",
@@ -1500,7 +1920,12 @@
       "Subscription Code": "*631#",
       "Status Code": "*631*2#",
       "Validity": "3 Days"
-    }
+    },
+    "subscription_code": "*631#",
+    "subscription_number": "631",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*631#"
   },
   {
     "plan_name": "International Calling Rates",
@@ -1514,7 +1939,12 @@
     "terms_and_conditions": "These terms and conditions are in addition to the general terms and conditions duly approved by PTA and agreed to by the customer in CSAF/eCSAF at the time of activation of connection/SIM.\nJazz reserves the right/discretion to set/change the price/rate of any offer/package/bundle or withdraw/change/revoke such offer/package/bundle at any time. Where required under PTA’s regulations, prior notice shall be given to affected customers accordingly.\nOffer Price/charges of each offer/package/bundle shall be subject to all applicable taxes, if any, irrespective of the fact in which area of the country the requisite offer/package/bundle is activated/service availed.\nThe charging system reserves certain proportion of available data volume in MBs of your package against opening/accessing of each application/website on the device, therefore, the simultaneous opening/accessing of multiple applications and/or websites may result in reserving all your available data volume in MBs of your package and may start charging on base rate of your package.\nThe amount of balance and recharge required for bundles may be rounded up to the nearest whole number.\nIn case of any queries, questions, complaints or additional requirements, please email us at: [email protected]\nUnwanted and unethical (unreasonable) messages can be reported by texting SENDER’s NUMBER (SPACE) message to 9000 –PTA\nUsing a SIM which is not in your name or allowing others to use your SIM is a crime – PTA\nDial 420 to block unsolicited calls/messages (charges applicable).\nUnsolicited marketing communication can be blocked using “Do Not Call Register” service by texting “ON” or “SUB” to 3627. It is a free of cost service provided to Jazz customers.\nThe term “Purchase of Sim” means procuring/acquiring connection to the network of PMCL by a customer for availing telecommunication and other related services from PMCL. SIM always remains the property of PMCL and by issuing SIM to customer, only rights to use are given and no ownership is transferred to the customer in any manner, whatsoever. The customer is bound to return the SIM to PMCL in case he stops using service or agreement is terminated or he changes the network through MNP.\nBill date for all postpaid subscribers will be changed to 2nd of every month in 2021. Due to this change, customers will get a separate bill for difference in days for execution month. Min/MB charging will be prorated as per package.\n\nDetails of applicable Taxes/charges on usage and recharge in Pakistan and AJK are given below:\nAdvance income tax rate is @15% on each recharge.\n\nRate of sales tax in Federal Territory of Islamabad is 16%\nRate of sales tax in rest of Pakistan and AJK is 19.5%\nGB is exempted from taxes.\nA late payment fee of PKR 50 will be charged on bills remaining unpaid after the due date.\nUpon dialing package string customer will be subscribed to the package for exact validity days (including subscription day), offer and its incentives will expire on midnight of the last validity day. Monthly offers will have validity of x+29 days and weekly will have validity of x+6 days.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": 30
+    "billing_cycle": 30,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "UK Offer",
@@ -1536,7 +1966,12 @@
       "Rates": "Rs. 1.2/30Sec (Incl. tax)"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*456*2#",
+    "subscription_number": "456",
+    "unsubscribe_code": "*456*2*4#",
+    "unsubscribe_number": "456",
+    "dial_code": "*456*2#"
   },
   {
     "plan_name": "Saudia Arabia & UAE Offer",
@@ -1559,7 +1994,12 @@
       "KSA Rates": "Rs. 2.38/15Sec (Incl. tax)"
     },
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*452#",
+    "subscription_number": "452",
+    "unsubscribe_code": "*452*4#",
+    "unsubscribe_number": "452",
+    "dial_code": "*452#"
   },
   {
     "plan_name": "Jazz Easy",
@@ -1579,7 +2019,12 @@
       "Jazz Mins": "Rs. 3.50 / 60 Sec",
       "Other Network Mins": "Rs. 3.50 / 60 Sec",
       "SMS": "Rs. 2.5 / SMS"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Jazz Champion",
@@ -1599,7 +2044,12 @@
       "Jazz  Mins": "Rs. 3.50 / 60Sec",
       "Other Network Mins": "Rs. 3.50 / 60Sec",
       "SMS": "Rs. 2.5 / SMS"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Jazz One",
@@ -1619,7 +2069,12 @@
       "Jazz Mins": "Rs. 3.50 / 60Sec",
       "Other Network Mins": "Rs. 3.50 / 60Sec",
       "SMS": "Rs. 2.5 / SMS"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Full Control",
@@ -1633,7 +2088,12 @@
     "terms_and_conditions": "Call set up fee is applicable\nLimited time offer, it is subject to change anytime\nInternet offers can be subscribed and consumed in 2G/3G/4G networks areas\nOverage of Rs2.25/MB applies for all mobile internet bundles\nActual internet speed will depend on multiple factors like sim, device, web pages accessed, time of day, number of simultaneous users, distance from 2G/3G/4G site etc\nIf you are not subscribed to any bundle base rate will be charged i.e. Rs. 5/ MB. Charging pulse will be 512 KB",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Free Facebook by Jazz",
@@ -1647,7 +2107,12 @@
     "terms_and_conditions": "How is Free Facebook by Jazz different from regular Facebook?\nThis version of Facebook allows you to flexibly move between two modes - free mode and data mode. Free mode is a lightweight version of Facebook where you can post, comment, like, share and chat for free.\nTo view photos or videos, switch to Data Mode (regular Facebook) by clicking the ‘View Photos’ button. You will be charged for data in this mode as per your package plan. Go back to free mode any time by clicking the “Go to Free” button on the top of your timeline.\nJazz is providing data connectivity only for enabling the customer to use Free Facebook as per terms and condition provided on the website. However, in case of any change in Free Facebook product or features thereof by Facebook with or without notice, Jazz will not be responsible. In such scenario, customers subscribing Free Facebook may approach Facebook directly for complaining/escalating the issue. Please note that Jazz will charge the customer in case data is used for viewing/downloading pictures, videos, etc.\nWhen am I eligible to use full Facebook for free?\nJazz subscribers are also eligible to use Facebook for free for 30 days if they are new Facebook users.\nWhat if I started using Free Facebook by Jazz but now I don’t want to use it anymore?\nTo opt - out of Free Facebook by Jazz; when in data mode, click on the ‘?’ next to ‘You’re in Data Mode.’ You can also visit your Facebook bookmarks (if using the Facebook Android app) or Facebook menu (if using facebook.com) to opt - out.\nCan I get Free Basics on my desktop computer?\nNo, the Free Basics app is only available on mobile devices.\nHow do I avoid data charges while on Android?\nFollow the instructions below:\n\nClose other apps that may use data\nTurn off background data sync. To do so:\nOpen your device’s main Settings menu.\nUnder ‘Wireless & Networks’, select Data usage.\nTouch the menu icon.\nMake sure ‘Restrict background data’ is checked.\nMake sure ‘Auto - sync data’ is unchecked.\n\nHow do I change the language for Free Basics?\nFor Free Basics, if you’re in a country where Free Basics is available in more than one language, you can change the language by clicking ‘About Free Basics’ at the bottom of the list of websites.\nFor the Free Basics app: If you’re in a country where Free Basics is available in more than one language, you can choose your language by clicking ‘Settings’ in the menu tab in the upper right corner. Then click ‘Change Language’.\nCan I use other internet packages while using the Free Basics?\nYes, you can use any mobile internet package, call, text, use data and use hybrid bundle offers while using the Free Basics promo. Using the websites Provided via Free Basics does not deduct from your balance.",
     "more_details": {},
     "currency": "PKR",
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Sponsor Me",
@@ -1664,7 +2129,12 @@
       "Subscription Code": "Text \"Sub\" to 7008 or dial *70#"
     },
     "currency": null,
-    "billing_cycle": null
+    "billing_cycle": null,
+    "subscription_code": "*70#",
+    "subscription_number": "7008",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*70#"
   },
   {
     "plan_name": "Jazz Smart SMS",
@@ -1681,7 +2151,12 @@
       "Unsubscribe": "Send “Unsub” to 6070"
     },
     "currency": "PKR",
-    "billing_cycle": 1
+    "billing_cycle": 1,
+    "subscription_code": "*6070#",
+    "subscription_number": "6070",
+    "unsubscribe_code": "UNSUB",
+    "unsubscribe_number": "6070",
+    "dial_code": "*6070#"
   },
   {
     "plan_name": "Jazz Budget",
@@ -1701,7 +2176,12 @@
       "Jazz Mins": "Rs. 3.50 / 60sec",
       "Other Network Mins": "Rs. 3.50 / 60Sec",
       "SMS": "Rs. 2.5 / SMS"
-    }
+    },
+    "subscription_code": null,
+    "subscription_number": null,
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": null
   },
   {
     "plan_name": "Sim Lagao Offer",
@@ -1721,6 +2201,11 @@
       "Validity": "60 Days",
       "StatusCode": "*553*2#",
       "InfoCode": "*551*3#"
-    }
+    },
+    "subscription_code": "*551#",
+    "subscription_number": "551",
+    "unsubscribe_code": null,
+    "unsubscribe_number": null,
+    "dial_code": "*551#"
   }
 ]
